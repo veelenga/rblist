@@ -23,7 +23,7 @@ function Card(props: IProps) {
 
       <div className="pt-5 px-1 float-right">
         {item.tags.map((tag) => (
-          <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+          <span className="inline-block bg-gray-200 rounded-full px-2 text-sm font-semibold text-gray-700 mr-2 mb-2">
             #{tag}
           </span>
         ))}

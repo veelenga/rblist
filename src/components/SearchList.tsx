@@ -10,7 +10,7 @@ function SearchList(props: IProps) {
   const { items } = props;
 
   return (
-    <div className="flex flex-wrap">
+    <div className="flex flex-wrap m-auto justify-center">
       {items.map((item, index) => (
         <Card key={index} item={item} />
       ))}

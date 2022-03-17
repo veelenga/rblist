@@ -4,7 +4,7 @@ import listItems from "./data/index";
 
 function App() {
   return (
-    <div className="flex justify-center items-center">
+    <div className="m-auto w-11/12">
       <Search items={listItems} />
     </div>
   );

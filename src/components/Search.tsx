@@ -1,4 +1,4 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useMemo, useState } from "react";
 import SearchForm from "./SearchForm";
 import SearchList from "./SearchList";
 import { ListItem } from "../data/index";
@@ -9,15 +9,27 @@ interface IProps {
 
 function Search(props: IProps) {
   const { items } = props;
+  const [query, setQuery] = useState<string>("");
 
-  const onSearch = useCallback((event: any) => {
-    console.log("searching for:", event.target.value);
-  }, []);
+  const filteredItems = useMemo(
+    () =>
+      items.filter((item) =>
+        item.name.toLowerCase().includes(query.toLowerCase())
+      ),
+    [query, items]
+  );
+
+  const onSearch = useCallback(
+    (event: any) => {
+      setQuery(event.target.value);
+    },
+    [setQuery]
+  );
 
   return (
     <section>
       <SearchForm onSearch={onSearch} />
-      <SearchList items={items} />
+      <SearchList items={filteredItems} />
     </section>
   );
 }
