@@ -10,14 +10,16 @@ function Card(props: IProps) {
 
   const logo = `/logo/${item.logo}`;
   return (
-    <div className="h-36 w-80 rounded overflow-hidden shadow-lg">
+    <div className="h-36 w-80 px-2 rounded overflow-hidden shadow-lg">
       <div className="flex">
-        <img className="h-20 px-4 float-left" src={logo} alt="Company logo" />
+        <img
+          className="h-20 pt-2 px-4 float-left"
+          src={logo}
+          alt="Company logo"
+        />
         <div className="py-1 px-2">
           <div className="font-bold text-base">{item.name}</div>
-          <p className="text-gray-700 text-base text-sm h-14">
-            {item.description}
-          </p>
+          <p className="text-gray-700 text-xs h-14">{item.description}</p>
         </div>
       </div>
 
