@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rblist/static/css/main.c579ae74.css",
+    "main.js": "/rblist/static/js/main.bfa888cc.js",
+    "index.html": "/rblist/index.html",
+    "main.c579ae74.css.map": "/rblist/static/css/main.c579ae74.css.map",
+    "main.bfa888cc.js.map": "/rblist/static/js/main.bfa888cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c579ae74.css",
+    "static/js/main.bfa888cc.js"
+  ]
+}
