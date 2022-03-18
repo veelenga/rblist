@@ -21,8 +21,8 @@ const data = [
   },
   {
     name: "General Motors",
-    logo: "gmc.jpeg",
-    description: "Halts all its exports to Russia 'until further notice.'",
+    logo: "gmc.png",
+    description: "Halts all its exports to Russia 'until further notice'",
     tags: ["auto"],
   },
   {
@@ -30,6 +30,36 @@ const data = [
     logo: "toyota.png",
     description: "Stops making cars in Russia or importing them to the country",
     tags: ["auto"],
+  },
+  {
+    name: "Volkswagen",
+    logo: "volks.png",
+    description: "Stops production of vehicles in Russia and has suspended exports to the Russian market",
+    tags: ["auto"],
+  },
+  {
+    name: "Nissan",
+    logo: "nissan.png",
+    description: "Suspends the export of vehicles to Russia",
+    tags: ["auto"],
+  },
+  {
+    name: "Boeing",
+    logo: "boeing.png",
+    description: "Suspends support for Russian airlines",
+    tags: ["aviation"],
+  },
+  {
+    name: "Twitter",
+    logo: "twitter.png",
+    description: "Announces plans to 'reduce the visibility and amplification' of Russian state media content",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Netflix",
+    logo: "netflix.png",
+    description: "Suspends its streaming service in Russia",
+    tags: ["big-tech"],
   },
 ];
 
