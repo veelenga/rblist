@@ -6,7 +6,7 @@ function Header() {
     <div className="relative text-center px-1 py-1 bg-black text-neutral-100">
       <a href="/" className="py-4 align-center inline-block">
         <img src="/logo.png" alt="logo" className="h-16 inline-block" />
-        <h1 className="px-4 text-4xl font-bold text-red-500/80 inline-block align-middle">
+        <h1 className="gradient-title px-4 text-4xl font-bold inline-block align-middle">
           Russia Block List
         </h1>
       </a>

@@ -1,8 +1,17 @@
 .gradient-ua {
   background: #11B0FF;
-  background: -webkit-linear-gradient(to right, #11B0FF 50%, #FFFF12 50%);
-  background: -moz-linear-gradient(to right, #11B0FF 50%, #FFFF12 50%);
+  background: -webkit-linear-gradient(to right, #11B0FF 35%, #FFFF12 65%);
+  background: -moz-linear-gradient(to right, #11B0FF 35%, #FFFF12 65%);
   background: linear-gradient(to right, #11B0FF 35%, #FFFF12 65%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-title {
+  background: #CB3535;
+  background: -webkit-linear-gradient(to right, #CB3535 35%, #F33F3F 65%);
+  background: -moz-linear-gradient(to right, #CB3535 35%, #F33F3F 65%);
+  background: linear-gradient(to right, #CB3535 35%, #F33F3F 65%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
