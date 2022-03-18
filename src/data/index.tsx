@@ -71,13 +71,13 @@ const data = [
     name: "Roku",
     logo: "roku.png",
     description: "Banns RT worldwide",
-    tags: ["big-tech"],
+    tags: ["big-tech", "media"],
   },
   {
     name: "YouTube",
     logo: "youtube.png",
     description: "Blocks Russian state media within Ukraine, including RT and it  would be 'significantly limiting recommendations to these channels'",
-    tags: ["big-tech"],
+    tags: ["big-tech", "media"],
   },
   {
     name: "Google",
