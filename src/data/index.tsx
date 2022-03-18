@@ -85,6 +85,108 @@ const data = [
     description: "Will no longer allow Russian state media outlets to run ads or monetize their content",
     tags: ["big-tech"],
   },
+  {
+    name: "Airbnb",
+    logo: "airbnb.png",
+    description: "Suspends all operations in Russia and Belarus",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Intel",
+    logo: "intel.png",
+    description: "Stops all shipments to Russia and Belarus",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Microsoft",
+    logo: "microsoft.png",
+    description: "Suspends all new sales of its products and services in Russia",
+    tags: ["big-tech"],
+  },
+  {
+    name: "IBM",
+    logo: "ibm.png",
+    description: "Suspends all business in Russia",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Amazon",
+    logo: "amazon.png",
+    description: "Halts new sign-ups for the service in Russia",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Accenture",
+    logo: "accenture.png",
+    description: "Discontins its business in Russia",
+    tags: ["consulting"],
+  },
+  {
+    name: "Deloitte",
+    logo: "deloitte.png",
+    description: "Stops operating in Russia and Belarus",
+    tags: ["consulting"],
+  },
+  {
+    name: "Ernst & Young",
+    logo: "e&y.png",
+    description: "Removes its Russian practice from its official global network",
+    tags: ["consulting"],
+  },
+  {
+    name: "KPMG International",
+    logo: "kpmg.png",
+    description: "Russia and Belarus firms will leave the KPMG network",
+    tags: ["consulting"],
+  },
+  {
+    name: "PricewaterhouseCoopers",
+    logo: "pwc.png",
+    description: "Breaks away from its Russian business",
+    tags: ["consulting"],
+  },
+  {
+    name: "RuTracker",
+    logo: "rutracker.png",
+    description: "Blocks access for users from the Russia",
+    tags: ["media", "torrent"],
+  },
+  {
+    name: "BP",
+    logo: "bp.png",
+    description: "Plans to exit its 19.75% stake in Russia's biggest oil company, Rosneft, and suspending their joint ventures",
+    tags: ["energy"],
+  },
+  {
+    name: "Equinor",
+    logo: "equinor.png",
+    description: "Begins to exit its joint ventures in Russia",
+    tags: ["energy"],
+  },
+  {
+    name: "Exxon",
+    logo: "exxon.png",
+    description: "Leaves its last remaining oil-and-gas project in Russia and not to invest in new developments in the country",
+    tags: ["energy"],
+  },
+  {
+    name: "General Electric",
+    logo: "genelec.png",
+    description: "Suspends most of its operations in Russia",
+    tags: ["energy"],
+  },
+  {
+    name: "Shell",
+    logo: "shell.png",
+    description: "Is getting out of Russia and ditching its joint ventures, decides to stop buying Russian oil and gas",
+    tags: ["energy"],
+  },
+  {
+    name: "TotalEnergies",
+    logo: "totalenergies.png",
+    description: "Would no longer provide capital for new projects to Russia",
+    tags: ["energy"],
+  },
 ];
 
 export default data;
