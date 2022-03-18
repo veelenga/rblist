@@ -85,6 +85,18 @@ const data = [
     description: "Will no longer allow Russian state media outlets to run ads or monetize their content",
     tags: ["big-tech"],
   },
+  {
+    name: "Airbnb",
+    logo: "airbnb.png",
+    description: "Suspends all operations in Russia and Belarus.",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Intel",
+    logo: "intel.png",
+    description: "Stops all shipments to Russia and Belarus",
+    tags: ["big-tech"],
+  },
 ];
 
 export default data;
