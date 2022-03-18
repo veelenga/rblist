@@ -65,7 +65,7 @@ const data = [
     name: "Spotify",
     logo: "spotify.png",
     description: "Closes its office in Russia 'indefinitely' and restricts shows 'owned and operated by Russian state-affiliated media'",
-    tags: ["big-tech"],
+    tags: ["big-tech", "media"],
   },
   {
     name: "Roku",
