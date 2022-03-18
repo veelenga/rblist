@@ -88,7 +88,7 @@ const data = [
   {
     name: "Airbnb",
     logo: "airbnb.png",
-    description: "Suspends all operations in Russia and Belarus.",
+    description: "Suspends all operations in Russia and Belarus",
     tags: ["big-tech"],
   },
   {
