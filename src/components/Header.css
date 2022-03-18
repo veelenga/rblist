@@ -1,0 +1,8 @@
+.gradient-ua {
+  background: #11B0FF;
+  background: -webkit-linear-gradient(to right, #11B0FF 50%, #FFFF12 50%);
+  background: -moz-linear-gradient(to right, #11B0FF 50%, #FFFF12 50%);
+  background: linear-gradient(to right, #11B0FF 35%, #FFFF12 65%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
