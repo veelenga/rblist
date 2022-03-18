@@ -61,6 +61,30 @@ const data = [
     description: "Suspends its streaming service in Russia",
     tags: ["big-tech"],
   },
+  {
+    name: "Spotify",
+    logo: "spotify.png",
+    description: "Closes its office in Russia 'indefinitely' and restricts shows 'owned and operated by Russian state-affiliated media'",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Roku",
+    logo: "roku.png",
+    description: "Banns RT worldwide",
+    tags: ["big-tech"],
+  },
+  {
+    name: "YouTube",
+    logo: "youtube.png",
+    description: "Blocks Russian state media within Ukraine, including RT and it  would be 'significantly limiting recommendations to these channels'",
+    tags: ["big-tech"],
+  },
+  {
+    name: "Google",
+    logo: "google.png",
+    description: "Will no longer allow Russian state media outlets to run ads or monetize their content",
+    tags: ["big-tech"],
+  },
 ];
 
 export default data;
