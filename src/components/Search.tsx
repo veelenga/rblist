@@ -27,7 +27,7 @@ function Search(props: IProps) {
   );
 
   return (
-    <section>
+    <section className="pb-4">
       <SearchForm onSearch={onSearch} />
       <SearchList items={filteredItems} />
     </section>

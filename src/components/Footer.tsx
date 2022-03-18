@@ -1,14 +1,9 @@
 import React from "react";
 
 function Footer() {
-  const classes = [
-    "py-1",
-    "text-center",
-    "border-t-4",
-    "border-t-red-400",
-    "bg-black",
-    "text-neutral-100",
-  ].join(" ");
+  const classes = ["py-1", "text-center", "bg-black", "text-neutral-100"].join(
+    " "
+  );
 
   return (
     <div className={classes}>
