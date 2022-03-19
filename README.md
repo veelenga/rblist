@@ -8,6 +8,6 @@ Web site where you can quickly find the list of companies who suspend their busi
 
 1. Install latest node and yarn
 2. Clone this repository
-3. Run `yarn` to install dependencies
+3. Run `yarn install` to install dependencies
 4. Run `yarn start` to run the project
 5. Open `http://localhost:3000`
