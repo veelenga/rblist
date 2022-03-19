@@ -1,12 +1,14 @@
 import React from "react";
 import { ListItem } from "../data/index";
+import Tag from "./Tag";
 
 interface IProps {
   item: ListItem;
+  onTagClick: (name: string) => void;
 }
 
 function Card(props: IProps) {
-  const { item } = props;
+  const { item, onTagClick } = props;
 
   const logo = `/logo/${item.logo}`;
   return (
@@ -25,9 +27,7 @@ function Card(props: IProps) {
 
       <div className="pt-5 px-1 float-right">
         {item.tags.map((tag) => (
-          <span className="inline-block bg-gray-200 rounded-full px-2 text-sm font-semibold text-gray-700 mr-2 mb-2">
-            #{tag}
-          </span>
+          <Tag name={tag} onTagClick={onTagClick} />
         ))}
       </div>
     </div>
