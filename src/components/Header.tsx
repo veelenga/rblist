@@ -11,7 +11,7 @@ function Header() {
         </h1>
       </a>
       <h2 className="pb-4 text-xl">
-        List of companies who suspend their business in Russia.
+        Companies who suspend their business in Russia.
         <br /> Do not support the agressor{" "}
         <span className="gradient-ua">#StandWithUkraine</span>
       </h2>
