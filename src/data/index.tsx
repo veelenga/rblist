@@ -187,6 +187,96 @@ const data = [
     description: "Would no longer provide capital for new projects to Russia",
     tags: ["energy"],
   },
+  {
+    name: "MasterCard",
+    logo: "mastercard.png",
+    description: "Suspends its network services in Russia. Cards, supported by Russian banks, willn't work in the company's network",
+    tags: ["finance"],
+  },
+  {
+    name: "VISA",
+    logo: "visa.png",
+    description: "Suspends all of its operations and all Visa transactions in Russia",
+    tags: ["finance"],
+  },
+  {
+    name: "American Express",
+    logo: "amexpr.png",
+    description: "Cards will no longer work on territory of Russia and Belarus",
+    tags: ["finance"],
+  },
+  {
+    name: "Moody's",
+    logo: "moody.png",
+    description: "Suspends commercial operations in Russia",
+    tags: ["finance"],
+  },
+  {
+    name: "DirecTV",
+    logo: "directv.png",
+    description: "Cuts ties with RT",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "Disney",
+    logo: "disney.png",
+    description: "Suspends the release of its theatrical films in Russia",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "WarnerMedia",
+    logo: "warnmed.png",
+    description: "Pauses all business in Russia, broadcast of its channels and all new content licensing with Russian entities",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "H&M",
+    logo: "h&m.png",
+    description: "Pauses all sales in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Heineken",
+    logo: "heineken.png",
+    description: "Stops producing and selling beer and had suspensions on new investments and exports to Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Ikea",
+    logo: "ikea.png",
+    description: "Pauses its retail and manufacturing operations in Russia and suspends all trade with Belarus",
+    tags: ["retail"],
+  },
+  {
+    name: "Inditex",
+    logo: "inditex.png",
+    description: "Pauses operations in Russia and closing 502 stores in the country",
+    tags: ["retail"],
+  },
+  {
+    name: "Mothercare",
+    logo: "mothercare.png",
+    description: "Suspends business in Russia and stopping shipments there",
+    tags: ["retail"],
+  },
+  {
+    name: "Puma",
+    logo: "puma.png",
+    description: "Suspends operations of all of its stores in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Prada",
+    logo: "prada.png",
+    description: "Suspends its retail operations in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Procter & Gamble",
+    logo: "p&g.png",
+    description: "Discontines all new capital investments in Russia and suspends all media, advertising, and promotional activity",
+    tags: ["retail"],
+  },
 ];
 
 export default data;
