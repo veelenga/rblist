@@ -277,6 +277,66 @@ const data = [
     description: "Discontines all new capital investments in Russia and suspends all media, advertising, and promotional activity",
     tags: ["retail"],
   },
+  {
+    name: "ELC",
+    logo: "elc.png",
+    description: "Suspends all commercial activity, business investments and initiatives, as well as our brand sites in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Yum Brands",
+    logo: "yumbrands.png",
+    description: "Suspends all investment and restaurant development in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "McDonald's",
+    logo: "mac.png",
+    description: "Closes all its restaurants in Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Unilever",
+    logo: "unilever.png",
+    description: "Suspends imports of its products to Russia and is stopps all investment and exports from there",
+    tags: ["retail"],
+  },
+  {
+    name: "UPS",
+    logo: "ups.png",
+    description: "Suspends operations in Russia and Belarus",
+    tags: ["shipping goods"],
+  },
+  {
+    name: "FedEx",
+    logo: "fedex.png",
+    description: "Suspends operations in Russia and Belarus",
+    tags: ["shipping goods"],
+  },
+  {
+    name: "DHL",
+    logo: "dhl.png",
+    description: "Suspends inbound shipments to Russia and Belarus",
+    tags: ["shipping goods"],
+  },
+  {
+    name: "Maersk",
+    logo: "maersk.png",
+    description: "Halts cargo bookings with Russia",
+    tags: ["shipping goods"],
+  },
+  {
+    name: "MSC",
+    logo: "msc.png",
+    description: "Halts cargo bookings with Russia",
+    tags: ["shipping goods"],
+  },
+  {
+    name: "Alstom",
+    logo: "alstom.png",
+    description: "Suspends all deliveries towards Russia and all future business investments to the country",
+    tags: ["trains"],
+  },
 ];
 
 export default data;
