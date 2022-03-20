@@ -26,14 +26,16 @@ function SearchForm(props: IProps) {
       <div className="text-xs pt-2 text-gray-700 text-center italic">
         {allTags.size > 0 && (
           <div className="w-4/5 m-auto">
-            {Array.from(allTags).map((tag: string) => (
-              <Tag
-                key={tag}
-                name={tag}
-                selected={selectedTags.has(tag)}
-                onTagClicked={onTagClicked}
-              />
-            ))}
+            {Array.from(allTags)
+              .sort()
+              .map((tag: string) => (
+                <Tag
+                  key={tag}
+                  name={tag}
+                  selected={selectedTags.has(tag)}
+                  onTagClicked={onTagClicked}
+                />
+              ))}
           </div>
         )}
         <span>Total found: {totalFound}</span>
