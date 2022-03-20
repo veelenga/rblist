@@ -25,7 +25,7 @@ function SearchForm(props: IProps) {
       </div>
       <div className="text-xs pt-2 text-gray-700 text-center italic">
         {allTags.size > 0 && (
-          <div>
+          <div className="w-4/5 m-auto">
             {Array.from(allTags).map((tag: string) => (
               <Tag
                 key={tag}
