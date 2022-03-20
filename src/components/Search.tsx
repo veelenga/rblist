@@ -13,17 +13,26 @@ const containsTag = (item: ListItem, tags: Set<string>) =>
 function Search(props: IProps) {
   const { items } = props;
   const [query, setQuery] = useState<string>("");
-  const [tags, setTags] = useState<Set<string>>(new Set([]));
+  const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set([]));
+
+  const allTags = useMemo(
+    () =>
+      items.reduce((acc, item: ListItem) => {
+        item.tags.forEach((tag: string) => acc.add(tag));
+        return acc;
+      }, new Set<string>([])),
+    [items]
+  );
 
   const filteredItems = useMemo(() => {
     const newItems = items.filter((item) =>
       item.name.toLowerCase().includes(query)
     );
 
-    return tags.size > 0
-      ? newItems.filter((item) => containsTag(item, tags))
+    return selectedTags.size > 0
+      ? newItems.filter((item) => containsTag(item, selectedTags))
       : newItems;
-  }, [query, tags, items]);
+  }, [query, selectedTags, items]);
 
   const onSearch = useCallback(
     (event: any) => {
@@ -32,22 +41,13 @@ function Search(props: IProps) {
     [setQuery]
   );
 
-  const onTagAdded = useCallback(
+  const onTagClicked = useCallback(
     (name: string) => {
-      const newTags = new Set(tags);
-      newTags.add(name);
-      setTags(newTags);
+      const newTags = new Set(selectedTags);
+      newTags.has(name) ? newTags.delete(name) : newTags.add(name);
+      setSelectedTags(newTags);
     },
-    [tags, setTags]
-  );
-
-  const onTagRemoved = useCallback(
-    (name: string) => {
-      const newTags = new Set(tags);
-      newTags.delete(name);
-      setTags(newTags);
-    },
-    [tags, setTags]
+    [selectedTags, setSelectedTags]
   );
 
   return (
@@ -55,10 +55,11 @@ function Search(props: IProps) {
       <SearchForm
         onSearch={onSearch}
         totalFound={filteredItems.length}
-        tags={tags}
-        onTagClick={onTagRemoved}
+        allTags={allTags}
+        selectedTags={selectedTags}
+        onTagClicked={onTagClicked}
       />
-      <SearchList items={filteredItems} onTagClick={onTagAdded} />
+      <SearchList items={filteredItems} />
     </section>
   );
 }

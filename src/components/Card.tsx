@@ -4,11 +4,10 @@ import Tag from "./Tag";
 
 interface IProps {
   item: ListItem;
-  onTagClick: (name: string) => void;
 }
 
 function Card(props: IProps) {
-  const { item, onTagClick } = props;
+  const { item } = props;
 
   const logo = `/logo/${item.logo}`;
   return (
@@ -27,7 +26,7 @@ function Card(props: IProps) {
 
       <div className="pt-5 px-1 float-right">
         {item.tags.map((tag) => (
-          <Tag name={tag} onTagClick={onTagClick} />
+          <Tag key={`${item.name}-${tag}`} name={tag} />
         ))}
       </div>
     </div>

@@ -4,16 +4,15 @@ import { ListItem } from "../data/index";
 
 interface IProps {
   items: Array<ListItem>;
-  onTagClick: (name: string) => void;
 }
 
 function SearchList(props: IProps) {
-  const { items, onTagClick } = props;
+  const { items } = props;
 
   return (
     <div className="flex flex-wrap m-auto justify-center">
       {items.map((item) => (
-        <Card key={item.name} item={item} onTagClick={onTagClick} />
+        <Card key={item.name} item={item} />
       ))}
     </div>
   );

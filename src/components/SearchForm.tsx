@@ -4,12 +4,13 @@ import Tag from "./Tag";
 interface IProps {
   totalFound: number;
   onSearch: (event: any) => void;
-  tags: Set<string>;
-  onTagClick: (name: string) => void;
+  allTags: Set<string>;
+  selectedTags: Set<string>;
+  onTagClicked: (name: string) => void;
 }
 
 function SearchForm(props: IProps) {
-  const { onSearch, totalFound, tags, onTagClick } = props;
+  const { onSearch, totalFound, allTags, selectedTags, onTagClicked } = props;
 
   return (
     <form className="mb-8 mt-1 w-sm text-lg">
@@ -23,10 +24,15 @@ function SearchForm(props: IProps) {
         />
       </div>
       <div className="text-xs pt-2 text-gray-700 text-center italic">
-        {tags.size > 0 && (
+        {allTags.size > 0 && (
           <div>
-            {Array.from(tags).map((tag: string) => (
-              <Tag name={tag} onTagClick={onTagClick} />
+            {Array.from(allTags).map((tag: string) => (
+              <Tag
+                key={tag}
+                name={tag}
+                selected={selectedTags.has(tag)}
+                onTagClicked={onTagClicked}
+              />
             ))}
           </div>
         )}
