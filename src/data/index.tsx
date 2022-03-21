@@ -9,9 +9,8 @@ const data = [
   {
     name: "Apple",
     logo: "apple.png",
-    description: `Stops selling its products in Russia.
-       Limits access to Apple Pay`,
-    tags: ["tech", "finance"],
+    description: "Stops selling its products in Russia",
+    tags: ["tech"],
   },
   {
     name: "Ford",
