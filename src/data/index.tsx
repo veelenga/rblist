@@ -9,9 +9,8 @@ const data = [
   {
     name: "Apple",
     logo: "apple.png",
-    description: `Stops selling its products in Russia.
-       Limits access to Apple Pay`,
-    tags: ["tech", "finance"],
+    description: "Stops selling its products in Russia",
+    tags: ["tech"],
   },
   {
     name: "Ford",
@@ -383,6 +382,90 @@ const data = [
     description:
       "Halts all shipments of specific sanctioned parts and products to Russia several weeks ago and had no active joint ventures there",
     tags: ["oilfield services"],
+  },
+  {
+    name: "Activision Blizzard",
+    logo: "blizz.png",
+    description: "Suspends sales in Russia",
+    tags: ["entertainment"],
+  },
+  {
+    name: "Apple Pay",
+    logo: "applepay.png",
+    description: "Full block in Russia",
+    tags: ["tech", "finance"],
+  },
+  {
+    name: "Adidas",
+    logo: "adidas.png",
+    description: "Refusal to cooperate with the national football team of Russia",
+    tags: ["retail"],
+  },
+  {
+    name: "Adobe",
+    logo: "adobe.png",
+    description: "Stops working in Russia",
+    tags: ["tech"],
+  },
+  {
+    name: "Air Astana",
+    logo: "airastana.png",
+    description: "Suspends flights to Russia",
+    tags: ["aviation"],
+  },
+  {
+    name: "Aston Martin",
+    logo: "astonmartin.png",
+    description: "Stops supply of products to Russia",
+    tags: ["auto"],
+  },
+  {
+    name: "Audi",
+    logo: "audi.png",
+    description: "Leaves the Russian market",
+    tags: ["auto"],
+  },
+  {
+    name: "Autodesk",
+    logo: "autodesk.png",
+    description: "Stops work in Russia",
+    tags: ["tech"],
+  },
+  {
+    name: "AMD",
+    logo: "amd.png",
+    description: "Stops the supply of products to Russia",
+    tags: ["tech"],
+  },
+  {
+    name: "Avast",
+    logo: "avast.png",
+    description: "Suspends sales of products in Russia and Belarus",
+    tags: ["tech"],
+  },
+  {
+    name: "BBC",
+    logo: "bbc.png",
+    description: "Revokes content licensing in Russia",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "BIS",
+    logo: "bis.png",
+    description: "Suspends access of the Central Bank of Russia to its services",
+    tags: ["finance"],
+  },
+  {
+    name: "BlaBlaCar",
+    logo: "blablacar.png",
+    description: "Leaves the Russian market",
+    tags: ["transport"],
+  },
+  {
+    name: "Bloober Team",
+    logo: "blooberteam.png",
+    description: "Stops sales in Russia and Belarus",
+    tags: ["entertainment"],
   },
 ];
 
