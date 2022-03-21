@@ -305,13 +305,13 @@ const data = [
     name: "Yum Brands",
     logo: "yumbrands.png",
     description: "Suspends all investment and restaurant development in Russia",
-    tags: ["retail", "foot"],
+    tags: ["retail", "food"],
   },
   {
     name: "McDonald's",
     logo: "mac.png",
     description: "Closes all its restaurants in Russia",
-    tags: ["retail", "foot"],
+    tags: ["retail", "food"],
   },
   {
     name: "Unilever",
