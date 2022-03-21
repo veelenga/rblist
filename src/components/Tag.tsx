@@ -14,11 +14,12 @@ function Tag(props: IProps) {
     "inline-block",
     "rounded-full",
     "px-2",
-    "text-sm",
+    "text-xs",
+    "md:text-sm",
     "font-semibold",
     "text-gray-700",
-    "mr-2",
-    "mb-2",
+    "mr-1",
+    "mb-1",
   ];
 
   if (onTagClicked) {
