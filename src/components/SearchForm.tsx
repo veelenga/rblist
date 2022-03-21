@@ -13,7 +13,7 @@ function SearchForm(props: IProps) {
   const { onSearch, totalFound, allTags, selectedTags, onTagClicked } = props;
 
   return (
-    <form className="mb-8 mt-1 w-sm text-lg">
+    <form className="mb-8 mt-1 w-sm text-lg bg-white sticky top-0 md:relative">
       <div className="w-60 m-auto items-center border-b border-rose-400 py-2">
         <input
           className="appearance-none bg-transparent border-none w-full text-gray-700 ml-6 py-1 px-2 leading-tight focus:outline-none"
