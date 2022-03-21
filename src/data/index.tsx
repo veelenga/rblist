@@ -11,7 +11,7 @@ const data = [
     logo: "apple.png",
     description: `Stops selling its products in Russia.
        Limits access to Apple Pay`,
-    tags: ["big-tech", "finance"],
+    tags: ["tech", "finance"],
   },
   {
     name: "Ford",
@@ -55,71 +55,71 @@ const data = [
     logo: "twitter.png",
     description:
       "Announces plans to 'reduce the visibility and amplification' of Russian state media content",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Netflix",
     logo: "netflix.png",
     description: "Suspends its streaming service in Russia",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Spotify",
     logo: "spotify.png",
     description:
       "Closes its office in Russia 'indefinitely' and restricts shows 'owned and operated by Russian state-affiliated media'",
-    tags: ["big-tech", "media"],
+    tags: ["tech", "media"],
   },
   {
     name: "Roku",
     logo: "roku.png",
     description: "Banns RT worldwide",
-    tags: ["big-tech", "media"],
+    tags: ["tech", "media"],
   },
   {
     name: "YouTube",
     logo: "youtube.png",
     description:
       "Blocks Russian state media within Ukraine, including RT and it  would be 'significantly limiting recommendations to these channels'",
-    tags: ["big-tech", "media"],
+    tags: ["tech", "media"],
   },
   {
     name: "Google",
     logo: "google.png",
     description:
       "Will no longer allow Russian state media outlets to run ads or monetize their content",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Airbnb",
     logo: "airbnb.png",
     description: "Suspends all operations in Russia and Belarus",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Intel",
     logo: "intel.png",
     description: "Stops all shipments to Russia and Belarus",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Microsoft",
     logo: "microsoft.png",
     description:
       "Suspends all new sales of its products and services in Russia",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "IBM",
     logo: "ibm.png",
     description: "Suspends all business in Russia",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Amazon",
     logo: "amazon.png",
     description: "Halts new sign-ups for the service in Russia",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "Accenture",
@@ -324,31 +324,31 @@ const data = [
     name: "UPS",
     logo: "ups.png",
     description: "Suspends operations in Russia and Belarus",
-    tags: ["shipping goods"],
+    tags: ["delivery"],
   },
   {
     name: "FedEx",
     logo: "fedex.png",
     description: "Suspends operations in Russia and Belarus",
-    tags: ["shipping goods"],
+    tags: ["delivery"],
   },
   {
     name: "DHL",
     logo: "dhl.png",
     description: "Suspends inbound shipments to Russia and Belarus",
-    tags: ["shipping goods"],
+    tags: ["delivery"],
   },
   {
     name: "Maersk",
     logo: "maersk.png",
     description: "Halts cargo bookings with Russia",
-    tags: ["shipping goods"],
+    tags: ["delivery"],
   },
   {
     name: "MSC",
     logo: "msc.png",
     description: "Halts cargo bookings with Russia",
-    tags: ["shipping goods"],
+    tags: ["delivery"],
   },
   {
     name: "Alstom",
