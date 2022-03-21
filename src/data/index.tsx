@@ -34,7 +34,8 @@ const data = [
   {
     name: "Volkswagen",
     logo: "volks.png",
-    description: "Stops production of vehicles in Russia and has suspended exports to the Russian market",
+    description:
+      "Stops production of vehicles in Russia and has suspended exports to the Russian market",
     tags: ["auto"],
   },
   {
@@ -52,7 +53,8 @@ const data = [
   {
     name: "Twitter",
     logo: "twitter.png",
-    description: "Announces plans to 'reduce the visibility and amplification' of Russian state media content",
+    description:
+      "Announces plans to 'reduce the visibility and amplification' of Russian state media content",
     tags: ["big-tech"],
   },
   {
@@ -64,7 +66,8 @@ const data = [
   {
     name: "Spotify",
     logo: "spotify.png",
-    description: "Closes its office in Russia 'indefinitely' and restricts shows 'owned and operated by Russian state-affiliated media'",
+    description:
+      "Closes its office in Russia 'indefinitely' and restricts shows 'owned and operated by Russian state-affiliated media'",
     tags: ["big-tech", "media"],
   },
   {
@@ -76,13 +79,15 @@ const data = [
   {
     name: "YouTube",
     logo: "youtube.png",
-    description: "Blocks Russian state media within Ukraine, including RT and it  would be 'significantly limiting recommendations to these channels'",
+    description:
+      "Blocks Russian state media within Ukraine, including RT and it  would be 'significantly limiting recommendations to these channels'",
     tags: ["big-tech", "media"],
   },
   {
     name: "Google",
     logo: "google.png",
-    description: "Will no longer allow Russian state media outlets to run ads or monetize their content",
+    description:
+      "Will no longer allow Russian state media outlets to run ads or monetize their content",
     tags: ["big-tech"],
   },
   {
@@ -100,7 +105,8 @@ const data = [
   {
     name: "Microsoft",
     logo: "microsoft.png",
-    description: "Suspends all new sales of its products and services in Russia",
+    description:
+      "Suspends all new sales of its products and services in Russia",
     tags: ["big-tech"],
   },
   {
@@ -130,7 +136,8 @@ const data = [
   {
     name: "Ernst & Young",
     logo: "e&y.png",
-    description: "Removes its Russian practice from its official global network",
+    description:
+      "Removes its Russian practice from its official global network",
     tags: ["consulting"],
   },
   {
@@ -154,7 +161,8 @@ const data = [
   {
     name: "BP",
     logo: "bp.png",
-    description: "Plans to exit its 19.75% stake in Russia's biggest oil company, Rosneft, and suspending their joint ventures",
+    description:
+      "Plans to exit its 19.75% stake in Russia's biggest oil company, Rosneft, and suspending their joint ventures",
     tags: ["energy"],
   },
   {
@@ -166,7 +174,8 @@ const data = [
   {
     name: "Exxon",
     logo: "exxon.png",
-    description: "Leaves its last remaining oil-and-gas project in Russia and not to invest in new developments in the country",
+    description:
+      "Leaves its last remaining oil-and-gas project in Russia and not to invest in new developments in the country",
     tags: ["energy"],
   },
   {
@@ -178,7 +187,8 @@ const data = [
   {
     name: "Shell",
     logo: "shell.png",
-    description: "Is getting out of Russia and ditching its joint ventures, decides to stop buying Russian oil and gas",
+    description:
+      "Is getting out of Russia and ditching its joint ventures, decides to stop buying Russian oil and gas",
     tags: ["energy"],
   },
   {
@@ -190,13 +200,15 @@ const data = [
   {
     name: "MasterCard",
     logo: "mastercard.png",
-    description: "Suspends its network services in Russia. Cards, supported by Russian banks, willn't work in the company's network",
+    description:
+      "Suspends its network services in Russia. Cards, supported by Russian banks, willn't work in the company's network",
     tags: ["finance"],
   },
   {
     name: "VISA",
     logo: "visa.png",
-    description: "Suspends all of its operations and all Visa transactions in Russia",
+    description:
+      "Suspends all of its operations and all Visa transactions in Russia",
     tags: ["finance"],
   },
   {
@@ -226,7 +238,8 @@ const data = [
   {
     name: "WarnerMedia",
     logo: "warnmed.png",
-    description: "Pauses all business in Russia, broadcast of its channels and all new content licensing with Russian entities",
+    description:
+      "Pauses all business in Russia, broadcast of its channels and all new content licensing with Russian entities",
     tags: ["media", "entertainment"],
   },
   {
@@ -238,19 +251,22 @@ const data = [
   {
     name: "Heineken",
     logo: "heineken.png",
-    description: "Stops producing and selling beer and had suspensions on new investments and exports to Russia",
+    description:
+      "Stops producing and selling beer and had suspensions on new investments and exports to Russia",
     tags: ["retail"],
   },
   {
     name: "Ikea",
     logo: "ikea.png",
-    description: "Pauses its retail and manufacturing operations in Russia and suspends all trade with Belarus",
+    description:
+      "Pauses its retail and manufacturing operations in Russia and suspends all trade with Belarus",
     tags: ["retail"],
   },
   {
     name: "Inditex",
     logo: "inditex.png",
-    description: "Pauses operations in Russia and closing 502 stores in the country",
+    description:
+      "Pauses operations in Russia and closing 502 stores in the country",
     tags: ["retail"],
   },
   {
@@ -274,31 +290,34 @@ const data = [
   {
     name: "Procter & Gamble",
     logo: "p&g.png",
-    description: "Discontines all new capital investments in Russia and suspends all media, advertising, and promotional activity",
+    description:
+      "Discontines all new capital investments in Russia and suspends all media, advertising, and promotional activity",
     tags: ["retail"],
   },
   {
     name: "ELC",
     logo: "elc.png",
-    description: "Suspends all commercial activity, business investments and initiatives, as well as our brand sites in Russia",
+    description:
+      "Suspends all commercial activity, business investments and initiatives, as well as our brand sites in Russia",
     tags: ["retail"],
   },
   {
     name: "Yum Brands",
     logo: "yumbrands.png",
     description: "Suspends all investment and restaurant development in Russia",
-    tags: ["retail"],
+    tags: ["retail", "foot"],
   },
   {
     name: "McDonald's",
     logo: "mac.png",
     description: "Closes all its restaurants in Russia",
-    tags: ["retail"],
+    tags: ["retail", "foot"],
   },
   {
     name: "Unilever",
     logo: "unilever.png",
-    description: "Suspends imports of its products to Russia and is stopps all investment and exports from there",
+    description:
+      "Suspends imports of its products to Russia and is stopps all investment and exports from there",
     tags: ["retail"],
   },
   {
@@ -334,8 +353,36 @@ const data = [
   {
     name: "Alstom",
     logo: "alstom.png",
-    description: "Suspends all deliveries towards Russia and all future business investments to the country",
+    description:
+      "Suspends all deliveries towards Russia and all future business investments to the country",
     tags: ["trains"],
+  },
+  {
+    name: "Schlumberger",
+    logo: "slb.png",
+    description:
+      "Suspends new investment and technology deployment to our Russia operations",
+    tags: ["oilfield services"],
+  },
+  {
+    name: "Weatherford",
+    logo: "wfrd.png",
+    description: "Suspends all new investments in Russia",
+    tags: ["oilfield services"],
+  },
+  {
+    name: "Baker Hughes",
+    logo: "bkr.png",
+    description:
+      "Suspends all new investments and is complying with applicable laws and sanctions as it fulfills current contractual obligations",
+    tags: ["oilfield services"],
+  },
+  {
+    name: "Halliburton",
+    logo: "hal.png",
+    description:
+      "Halts all shipments of specific sanctioned parts and products to Russia several weeks ago and had no active joint ventures there",
+    tags: ["oilfield services"],
   },
 ];
 
