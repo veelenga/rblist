@@ -64,7 +64,7 @@ function Search(props: IProps) {
   );
 
   return (
-    <div className="m-auto w-full xl:w-3/5 border-y-4 border-y-red-400 grow">
+    <div className="m-auto w-full border-y-4 border-y-red-400 grow">
       <section className="pb-4">
         <SearchForm
           onSearch={onSearch}
