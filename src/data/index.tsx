@@ -536,7 +536,7 @@ const data = [
   {
     name: "Coca-Cola",
     logo: "cola.png",
-    description: "Exit from the Russian market",
+    description: "Exits from the Russian market",
     tags: ["retal"],
   },
   {
