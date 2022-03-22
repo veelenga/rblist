@@ -557,6 +557,12 @@ const data = [
     description: "Pause in cooperation with Russia",
     tags: ["media", "entertainment"],
   },
+  {
+    name: "Bloober Team",
+    logo: "blooberteam.png",
+    description: "Stops sales in Russia and Belarus",
+    tags: ["entertainment"],
+  },
 ];
 
 export default data;
