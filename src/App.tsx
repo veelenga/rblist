@@ -8,9 +8,7 @@ function App() {
   return (
     <div className="flex flex-col flex-wrap min-h-screen">
       <Header />
-      <div className="m-auto w-full border-y-4 border-y-red-400 grow md:overflow-auto md:h-1">
-        <Search items={listItems} />
-      </div>
+      <Search items={listItems} />
       <Footer />
     </div>
   );

@@ -398,7 +398,8 @@ const data = [
   {
     name: "Adidas",
     logo: "adidas.png",
-    description: "Refusal to cooperate with the national football team of Russia",
+    description:
+      "Refusal to cooperate with the national football team of Russia",
     tags: ["retail"],
   },
   {
@@ -452,7 +453,8 @@ const data = [
   {
     name: "BIS",
     logo: "bis.png",
-    description: "Suspends access of the Central Bank of Russia to its services",
+    description:
+      "Suspends access of the Central Bank of Russia to its services",
     tags: ["finance"],
   },
   {
@@ -512,14 +514,15 @@ const data = [
   {
     name: "Carlsberg",
     logo: "carlsberg.png",
-    description: "Stops investing, and stops the company's exports of beer and other beverages to Russia",
+    description:
+      "Stops investing, and stops the company's exports of beer and other beverages to Russia",
     tags: ["retail"],
   },
   {
     name: "Cex Io",
     logo: "cexio.png",
     description: "Restrictions for users in Russia",
-    tags: ["big-tech", "finance"],
+    tags: ["tech", "finance"],
   },
   {
     name: "Cinema 4D",

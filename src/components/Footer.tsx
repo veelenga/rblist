@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-  const classes = ["py-1", "text-center", "bg-black", "text-neutral-100"].join(
+  const classes = ["py-2", "text-center", "bg-black", "text-neutral-100"].join(
     " "
   );
 
