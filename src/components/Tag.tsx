@@ -9,27 +9,26 @@ interface IProps {
 function Tag(props: IProps) {
   const { name, selected, onTagClicked } = props;
   const onClick = onTagClicked ? () => onTagClicked(name) : undefined;
+  const clickable = !!onClick;
 
   let tagClasses = [
     "inline-block",
     "rounded-full",
     "px-2",
     "text-xs",
-    "md:text-sm",
-    "font-semibold",
-    "text-gray-700",
     "mr-1",
     "mb-1",
   ];
 
-  if (onTagClicked) {
-    tagClasses.push("cursor-pointer");
+  if (clickable) {
+    tagClasses.push("cursor-pointer", "md:text-sm", "font-semibold");
+    selected || tagClasses.push("bg-gray-200");
+  } else {
+    tagClasses.push("text-neutral-400");
   }
 
   if (selected) {
     tagClasses.push("bg-blue-300");
-  } else {
-    tagClasses.push("bg-gray-200");
   }
 
   return (

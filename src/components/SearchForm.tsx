@@ -23,7 +23,7 @@ function SearchForm(props: IProps) {
           onChange={onSearch}
         />
       </div>
-      <div className="text-xs p-2 text-gray-700 text-center italic">
+      <div className="text-xs p-2 text-gray-700 text-center">
         {allTags.size > 0 && (
           <div className="w-full md:w-3/4 m-auto">
             {Array.from(allTags)
@@ -38,7 +38,7 @@ function SearchForm(props: IProps) {
               ))}
           </div>
         )}
-        <span>Total found: {totalFound}</span>
+        <span className="italic">Total found: {totalFound}</span>
       </div>
     </form>
   );

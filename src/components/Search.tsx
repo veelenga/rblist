@@ -25,9 +25,9 @@ function Search(props: IProps) {
   );
 
   const filteredItems = useMemo(() => {
-    const newItems = items.filter((item) =>
-      item.name.toLowerCase().includes(query)
-    );
+    const newItems = items
+      .filter((item) => item.name.toLowerCase().includes(query))
+      .sort((a, b) => a.name.localeCompare(b.name));
 
     return selectedTags.size > 0
       ? newItems.filter((item) => containsTag(item, selectedTags))
