@@ -13,11 +13,11 @@ function SearchForm(props: IProps) {
   const { onSearch, totalFound, allTags, selectedTags, onTagClicked } = props;
 
   return (
-    <form className="mb-8 mt-1 w-sm bg-white sticky top-0 shadow">
+    <form className="mb-8 mt-1 w-sm bg-white sticky top-0 shadow z-10">
       <div className="w-60 m-auto items-center border-b border-rose-400 py-2">
         <input
-          className="appearance-none bg-transparent border-none w-full text-gray-700 ml-6 py-1 px-2 leading-tight focus:outline-none"
-          type="text"
+          className="appearance-none w-full text-gray-700 py-1 text-center focus:outline-none"
+          type="search"
           placeholder="Search for a company"
           aria-label="Search"
           onChange={onSearch}
