@@ -594,7 +594,7 @@ const data = [
     name: "Dell",
     logo: "dell.png",
     description: "Closes sales in Russia",
-    tags: ["big-tech"],
+    tags: ["tech"],
   },
   {
     name: "DMarket",
