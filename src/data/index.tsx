@@ -171,7 +171,7 @@ const data = [
     tags: ["energy"],
   },
   {
-    name: "Exxon",
+    name: "Exxon Mobil",
     logo: "exxon.png",
     description:
       "Leaves its last remaining oil-and-gas project in Russia and not to invest in new developments in the country",
@@ -565,6 +565,96 @@ const data = [
     logo: "blooberteam.png",
     description: "Stops sales in Russia and Belarus",
     tags: ["entertainment"],
+  },
+  {
+    name: "Daimler Truck AG",
+    logo: "dta.png",
+    description: "Closes the business in Russia",
+    tags: ["transport", "manufacture"],
+  },
+  {
+    name: "Depositphotos",
+    logo: "depositphotos.png",
+    description: "Exits from Russia and Belarus",
+    tags: ["entertainment", "media"],
+  },
+  {
+    name: "Deutsche Bank",
+    logo: "deutschebank.png",
+    description: "Stops working in Russia",
+    tags: ["finance"],
+  },
+  {
+    name: "Discovery",
+    logo: "discovery.png",
+    description: "Stops broadcasting in Russia",
+    tags: ["entertainment", "media"],
+  },
+  {
+    name: "Dell",
+    logo: "dell.png",
+    description: "Closes sales in Russia",
+    tags: ["tech"],
+  },
+  {
+    name: "DMarket",
+    logo: "dmarket.png",
+    description: "Freezes accounts of Russian and Belarusian users",
+    tags: ["retail","entertainment"],
+  },
+  {
+    name: "DP Eurasia",
+    logo: "dpeurasia.png",
+    description: "Suspends investment in Russia",
+    tags: ["food"],
+  },
+  {
+    name: "Eurovision",
+    logo: "eurovision.png",
+    description: "Exclusions of Russia from participation",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "EFA",
+    logo: "efa.png",
+    description: "Boycott of Russian films",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "EA Games",
+    logo: "eag.png",
+    description: "Stops sales in Russia and Belarus",
+    tags: ["entertainment"],
+  },
+  {
+    name: "Epic Games",
+    logo: "epicgames.png",
+    description: "Stops selling content in Russia",
+    tags: ["entertainment"],
+  },
+  {
+    name: "Epson",
+    logo: "epson.png",
+    description: "Suspends the supply of these products to Belarus and Russia",
+    tags: ["tech", "retail"],
+  },
+  {
+    name: "Elisa Esports",
+    logo: "elisaesports.png",
+    description: "Removes from participation all Russian clubs",
+    tags: ["media", "entertainment"],
+  },
+  {
+    name: "Ericsson",
+    logo: "ericsson.png",
+    description: "Stops deliveries in Russia",
+    tags: ["tech"],
+  },
+  {
+    name: "Eni",
+    logo: "eni.png",
+    description: "Stops buying oil in Russia",
+    tags: ["oilfield services"],
   },
 ];
 
