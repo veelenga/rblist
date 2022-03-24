@@ -291,7 +291,7 @@ const data = [
     description:
       "Stops producing and selling beer and had suspensions on new investments and exports to Russia",
     status:"Suspension",
-    tags: ["retail"],
+    tags: ["alcohol", "retail"],
   },
   {
     name: "Ikea",
@@ -575,21 +575,21 @@ const data = [
     logo: "fdc.png",
     description: "Ban of the Russian delegation",
     status:"Suspension",
-    tags: ["entertainment"],
+    tags: ["media", "entertainment"],
   },
   {
     name: "Caterpillar",
     logo: "caterpillar.png",
     description: "Suspends operations in Russia",
     status:"Suspension",
-    tags: ["manufacturer"],
+    tags: ["manufacture"],
   },
   {
     name: "Cargill",
     logo: "cargill.png",
     description: "Closes down its activities in Russia",
     status:"Suspension",
-    tags: ["food"],
+    tags: ["food", "manufacture"],
   },
   {
     name: "Carlsberg",
@@ -597,7 +597,7 @@ const data = [
     description:
       "Stops investing, and stops the company's exports of beer and other beverages to Russia",
     status:"Suspension",
-    tags: ["retail"],
+    tags: ["alcohol", "retail"],
   },
   {
     name: "Cex Io",
@@ -625,7 +625,7 @@ const data = [
     logo: "cola.png",
     description: "Exits from the Russian market",
     status:"Suspension",
-    tags: ["retal"],
+    tags: ["retail"],
   },
   {
     name: "Colgate-Palmolive",
@@ -777,9 +777,44 @@ const data = [
   {
     name: "Formula 1",
     logo: "formula.png",
-    description: "Suspends all operations in Russia",
+    description: "Suspends all operations in Russia and cancellation of the tournament in Sochi",
     status:"Withdrawal",
     tags: ["auto"],
+  },
+  {
+    name: "F.I.G.",
+    logo: "fig.png",
+    description: "All competitions in Russia and Belarus are canceled and banned",
+    status:"Suspension",
+    tags: ["sport"],
+  },
+  {
+    name: "Frankfurt Book Fair",
+    logo: "fbf.png",
+    description: "Suspends cooperate with Russian organizations and publishing houses",
+    status:"Withdrawal",
+    tags: ["books", "entertainment"],
+  },
+  {
+    name: "Gardners",
+    logo: "gardners.png",
+    description: "Stops together with Russian publishers",
+    status:"Withdrawal",
+    tags: ["media", "books", "entertainment"],
+  },
+  {
+    name: "GOG",   
+    logo: "gog.png",
+    description: "Stops processing payments in rubles",
+    status:"Suspension",
+    tags: ["finance", "entertainment"],
+  },
+  {
+    name: "Google Pay",
+    logo: "googlepay.png",
+    description: "Blocks a number of banks and restrictions on work in Russia",
+    status:"Scaling Back",
+    tags: ["finance"],
   },
 ];
 
