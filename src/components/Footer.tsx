@@ -15,10 +15,6 @@ function Footer() {
       <a className="underline" href="https://tailwindcss.com/">
         tailwindcss
       </a>{" "}
-      |{" "}
-      <a className="underline" href="https://github.com/veelenga/rblist">
-        Contribute
-      </a>
     </div>
   );
 }
