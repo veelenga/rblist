@@ -1,0 +1,4358 @@
+[
+  {
+    "name": "Wise PLC",
+    "logo": "Wise PLC.png",
+    "description": "Suspend Russian partnerships",
+    "status": "Suspension",
+    "website": "https://www.wise.com",
+    "instagram": "instagram.com/wiseaccount",
+    "twitter": "twitter.com/wise",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Ponsse PLC",
+    "logo": "Ponsse PLC.png",
+    "description": "Discontinue all operations in Russia",
+    "status": "Suspension",
+    "website": "https://www.ponsse.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Renault",
+    "logo": "Renault.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": "https://www.group.renault.com",
+    "instagram": "instagram.com/groupe_renault",
+    "twitter": "twitter.com/groupe_renault",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Bombardier",
+    "logo": "Bombardier.png",
+    "description": "Restrict new Russian business",
+    "status": "Suspension",
+    "website": "https://www.bombardier.com",
+    "instagram": "https://www.instagram.com/bombardier_jets/?hl=en",
+    "twitter": "https://www.instagram.com/bombardier_jets/?hl=en",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "3M",
+    "logo": "3M.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": "https://www.3m.com",
+    "instagram": "https://www.instagram.com/3m/?hl=en",
+    "twitter": "twitter.com/3m",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Boeing",
+    "logo": "Boeing.png",
+    "description": "Suspend operations in Russia/titanium purchases",
+    "status": "Suspension",
+    "website": "https://www.boeing.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Ralph Lauren",
+    "logo": "Ralph Lauren.jpg",
+    "description": "Pause operations in Russia",
+    "status": "Suspension",
+    "website": "https://www.ralphlauren.com",
+    "instagram": "https://www.instagram.com/ralphlauren/?hl=en",
+    "twitter": "https://twitter.com/RalphLauren",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Twin Disc",
+    "logo": "Twin Disc.twin",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": "https://www.twindisc.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "AB InBev",
+    "logo": "AB InBev.jpg",
+    "description": "Suspend licenses for production and sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Apple",
+    "logo": "Apple.png",
+    "description": "Suspend all sales",
+    "status": "Suspension",
+    "website": "https://www.apple.com",
+    "instagram": "https://www.instagram.com/apple/",
+    "twitter": "https://twitter.com/Apple",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "logo": "Amazon.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": "https://www.amazon.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Adobe",
+    "logo": "Adobe.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": "https://www.adobe.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Lindt-Sprungli",
+    "logo": "Lindt-Sprungli.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "LG Electronics",
+    "logo": "LG Electronics.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Heidrick & Struggles",
+    "logo": "Heidrick & Struggles.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "SonoSim",
+    "logo": "SonoSim.jpg",
+    "description": "Suspend distributor relationship in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Trane Technologies",
+    "logo": "Trane Technologies.jpg",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Qualcomm",
+    "logo": "Qualcomm.png",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Lexmark",
+    "logo": "Lexmark.jpg",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Indeed",
+    "logo": "Indeed.jpg",
+    "description": "Suspend service in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "HP Enterprise (Independent from HP Inc.)",
+    "logo": "HP Enterprise (Independent from HP Inc.).jpg",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "logo": "Atlassian.png",
+    "description": "Suspend new software sales to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "YouTube",
+    "logo": "YouTube.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Intel",
+    "logo": "Intel.png",
+    "description": "Suspend sales to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Abrdn",
+    "logo": "Abrdn.png",
+    "description": "Suspend investments in Russia and reduce exposure",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Herbalife",
+    "logo": "Herbalife.png",
+    "description": "Suspend sales and shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Heineken",
+    "logo": "Heineken.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Harley-Davidson",
+    "logo": "Harley-Davidson.png",
+    "description": "Suspending all business in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Hapag Lloyd",
+    "logo": "Hapag Lloyd.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "H&M",
+    "logo": "H&M.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Grupo Bimbo",
+    "logo": "Grupo Bimbo.png",
+    "description": "Suspend Russian operations",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ford",
+    "logo": "Ford.png",
+    "description": "Suspend joint ventures in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Visa",
+    "logo": "Visa.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "ADP",
+    "logo": "ADP.png",
+    "description": "Suspend new sales/services to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Akin Gump",
+    "logo": "Akin Gump.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Akamai",
+    "logo": "Akamai.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Universal",
+    "logo": "Universal.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Uniqlo/Fast Retailing",
+    "logo": "Uniqlo/Fast Retailing.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "UPS",
+    "logo": "UPS.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Xerox",
+    "logo": "Xerox.png",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Valio",
+    "logo": "Valio.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Valero Energy",
+    "logo": "Valero Energy.png",
+    "description": "Suspend purchases of Russian oil",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Airbus",
+    "logo": "Airbus.png",
+    "description": "Suspend supply of parts to Aeroflot",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "ZHA",
+    "logo": "ZHA.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "HMM",
+    "logo": "HMM.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Assicurazioni Generali",
+    "logo": "Assicurazioni Generali.png",
+    "description": "Exit Russia completely",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Hitachi Construction",
+    "logo": "Hitachi Construction.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Atlas Copco",
+    "logo": "Atlas Copco.png",
+    "description": "Suspend deliveries in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ikea",
+    "logo": "Ikea.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Aston Martin",
+    "logo": "Aston Martin.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bank of China",
+    "logo": "Bank of China.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Maersk",
+    "logo": "Maersk.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Inditex",
+    "logo": "Inditex.png",
+    "description": "Close Russian stores and suspend sales",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "TikTok",
+    "logo": "TikTok.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Lego",
+    "logo": "Lego.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "GM",
+    "logo": "GM.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dell",
+    "logo": "Dell.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Komatsu",
+    "logo": "Komatsu.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bentley",
+    "logo": "Bentley.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ferrari",
+    "logo": "Ferrari.png",
+    "description": "Suspend sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DirecTV",
+    "logo": "DirecTV.png",
+    "description": "Cut Kremlin backed TV networks",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "MVRDV",
+    "logo": "MVRDV.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "American Express",
+    "logo": "American Express.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Levi Strauss",
+    "logo": "Levi Strauss.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Leica Camera AG",
+    "logo": "Leica Camera AG.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Kinross Gold",
+    "logo": "Kinross Gold.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "SAP",
+    "logo": "SAP.png",
+    "description": "Suspend all sales to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Trimble",
+    "logo": "Trimble.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Raytheon",
+    "logo": "Raytheon.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Puma",
+    "logo": "Puma.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Timken",
+    "logo": "Timken.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Payoneer",
+    "logo": "Payoneer.png",
+    "description": "Close Russian accounts",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Continental",
+    "logo": "Continental.png",
+    "description": "Suspend operations at a factory",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Cogent Communications",
+    "logo": "Cogent Communications.png",
+    "description": "Cut all internet to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Meta",
+    "logo": "Meta.png",
+    "description": "Suspend Russian advertising",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Rabobank",
+    "logo": "Rabobank.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Remitly Global",
+    "logo": "Remitly Global.png",
+    "description": "Stop accepting new users in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Louis Dreyfus",
+    "logo": "Louis Dreyfus.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Under Armour",
+    "logo": "Under Armour.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Scania",
+    "logo": "Scania.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Hermes",
+    "logo": "Hermes.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "JD Sports",
+    "logo": "JD Sports.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "LVMH",
+    "logo": "LVMH.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bain",
+    "logo": "Bain.png",
+    "description": "Suspend consulting for all Russian businesses",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Coca-Cola",
+    "logo": "Coca-Cola.png",
+    "description": "Suspend certain operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "logo": "Deutsche Bank.png",
+    "description": "Wind down business in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Rolls Royce",
+    "logo": "Rolls Royce.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Scandinavian Tobacco",
+    "logo": "Scandinavian Tobacco.png",
+    "description": "Suspend most operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Amway",
+    "logo": "Amway.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mango",
+    "logo": "Mango.png",
+    "description": "Suspend direct operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "CMA CGM",
+    "logo": "CMA CGM.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "PVH",
+    "logo": "PVH.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nintendo",
+    "logo": "Nintendo.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Alstom",
+    "logo": "Alstom.png",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Twitter",
+    "logo": "Twitter.png",
+    "description": "Suspend certain operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Logitech",
+    "logo": "Logitech.png",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ricoh",
+    "logo": "Ricoh.png",
+    "description": "Suspend shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Juniper Networks",
+    "logo": "Juniper Networks.png",
+    "description": "Suspend sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mercedes-Benz",
+    "logo": "Mercedes-Benz.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Honeywell",
+    "logo": "Honeywell.png",
+    "description": "Suspend virtually all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Samsonite International",
+    "logo": "Samsonite International.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "NHL",
+    "logo": "NHL.png",
+    "description": "Pause all partnerships in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Lumen",
+    "logo": "Lumen.png",
+    "description": "Cut networks to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Paypal",
+    "logo": "Paypal.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Estee Lauder",
+    "logo": "Estee Lauder.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Diageo",
+    "logo": "Diageo.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Swatch",
+    "logo": "Swatch.png",
+    "description": "Suspend direct operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "L'Oreal",
+    "logo": "L'Oreal.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Sandvik",
+    "logo": "Sandvik.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ericsson",
+    "logo": "Ericsson.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Prada",
+    "logo": "Prada.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Skoda",
+    "logo": "Skoda.png",
+    "description": "Suspend all production in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nokia",
+    "logo": "Nokia.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Honda",
+    "logo": "Honda.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nvidia",
+    "logo": "Nvidia.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Richemont",
+    "logo": "Richemont.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Kering",
+    "logo": "Kering.png",
+    "description": "Close all stores in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nissan",
+    "logo": "Nissan.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Samsung",
+    "logo": "Samsung.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Cleary Gottlieb",
+    "logo": "Cleary Gottlieb.png",
+    "description": "Suspend Russian operations",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Citrix",
+    "logo": "Citrix.png",
+    "description": "Suspend all sales to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Neste Oyj",
+    "logo": "Neste Oyj.png",
+    "description": "Suspend purchases of Russian oil",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "IBM",
+    "logo": "IBM.png",
+    "description": "Suspend technology sales to Russia on Feb 24",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Cisco",
+    "logo": "Cisco.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Magna",
+    "logo": "Magna.png",
+    "description": "Suspend Russian plants",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Hyundai",
+    "logo": "Hyundai.png",
+    "description": "Suspend manufacturing in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Metso Outotec",
+    "logo": "Metso Outotec.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Rockwell Automation",
+    "logo": "Rockwell Automation.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nike",
+    "logo": "Nike.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Clorox",
+    "logo": "Clorox.png",
+    "description": "Suspend all business activity in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Toyota",
+    "logo": "Toyota.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "logo": "Microsoft.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "TSMC",
+    "logo": "TSMC.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "logo": "Salesforce.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Sylvamo",
+    "logo": "Sylvamo.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "JYSK",
+    "logo": "JYSK.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Marks & Spencer",
+    "logo": "Marks & Spencer.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mothercare",
+    "logo": "Mothercare.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "FedEx",
+    "logo": "FedEx.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Commerzbank",
+    "logo": "Commerzbank.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Johnson Controls",
+    "logo": "Johnson Controls.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Imperial Brands",
+    "logo": "Imperial Brands.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Moncler",
+    "logo": "Moncler.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "HP Inc.",
+    "logo": "HP Inc..png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Citi",
+    "logo": "Citi.png",
+    "description": "Expand the scope of the exit process",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DHL",
+    "logo": "DHL.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Alphabet",
+    "logo": "Alphabet.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Preem AB",
+    "logo": "Preem AB.png",
+    "description": "Suspend purchases of Russian oil",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Thermo Fisher",
+    "logo": "Thermo Fisher.png",
+    "description": "Suspend sales and manufacturing in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mettler Toledo",
+    "logo": "Mettler Toledo.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "CBRE",
+    "logo": "CBRE.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mastercard",
+    "logo": "Mastercard.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "WarnerMedia",
+    "logo": "WarnerMedia.png",
+    "description": "Pause new content releases",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Disney",
+    "logo": "Disney.png",
+    "description": "Pause new content releases",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Intuit",
+    "logo": "Intuit.png",
+    "description": "Suspend customer accounts",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Adidas",
+    "logo": "Adidas.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "VMWare",
+    "logo": "VMWare.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Burberry",
+    "logo": "Burberry.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Subaru",
+    "logo": "Subaru.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Panasonic",
+    "logo": "Panasonic.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Papa John's",
+    "logo": "Papa John's.png",
+    "description": "Suspend support for all Russian franchises",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Viva Energy",
+    "logo": "Viva Energy.png",
+    "description": "Suspend purchases of Russian oil",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mazda",
+    "logo": "Mazda.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "logo": "Canadian Tire.png",
+    "description": "Close Russia stores",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "JCB",
+    "logo": "JCB.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Burger King",
+    "logo": "Burger King.png",
+    "description": "Halt corporate support for franchises",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Iveco",
+    "logo": "Iveco.png",
+    "description": "Suspend deliveries to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Paramount",
+    "logo": "Paramount.png",
+    "description": "Pause new content releases to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dassault Aviation",
+    "logo": "Dassault Aviation.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "McCain Foods",
+    "logo": "McCain Foods.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Canada Goose",
+    "logo": "Canada Goose.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Discover",
+    "logo": "Discover.png",
+    "description": "Suspend efforts to establish Russian presence",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DSV A/S",
+    "logo": "DSV A/S.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Volvo",
+    "logo": "Volvo.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Debevoise & Plimpton",
+    "logo": "Debevoise & Plimpton.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Snap",
+    "logo": "Snap.png",
+    "description": "Suspend all sales to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Budvar",
+    "logo": "Budvar.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Caterpillar",
+    "logo": "Caterpillar.png",
+    "description": "Suspend Russian manufacturing facilities",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Jaguar",
+    "logo": "Jaguar.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "logo": "McDonald's.png",
+    "description": "Suspend direct operations/restaurants",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Sony",
+    "logo": "Sony.png",
+    "description": "Pause release of new films in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Stellantis",
+    "logo": "Stellantis.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Oracle",
+    "logo": "Oracle.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "logo": "Starbucks.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Chipperfield",
+    "logo": "Chipperfield.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Canon",
+    "logo": "Canon.png",
+    "description": "Suspend deliveries in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Mattel",
+    "logo": "Mattel.png",
+    "description": "Suspend shipments into Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "McCormick",
+    "logo": "McCormick.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bridgestone Tire",
+    "logo": "Bridgestone Tire.png",
+    "description": "Suspend manufacturing in Russia and shipments into",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Western Union",
+    "logo": "Western Union.png",
+    "description": "Suspend operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Chanel",
+    "logo": "Chanel.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "logo": "Volkswagen.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Suspension",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Orkla",
+    "logo": "Orkla.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": "https://www.orkla.no",
+    "instagram": "https://www.instagram.com/orklanorge/",
+    "twitter": "https://twitter.com/orklagroup?lang=en",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "name": "Air Products",
+    "logo": "Air Products.png",
+    "description": "Full divestiture from Russia",
+    "status": "Withdrawal",
+    "website": "https://www.airproducts.com",
+    "instagram": "instagram.com/airproductsglobal",
+    "twitter": "twitter.com/airproducts",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Authentic Brands Group - Reebok",
+    "logo": "Authentic Brands Group - Reebok.png",
+    "description": "Successfully completed suspension of all operations",
+    "status": "Withdrawal",
+    "website": "www.reebok.com",
+    "instagram": "instagram.com/reebok",
+    "twitter": "www.twitter.com/reebok",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Accenture",
+    "logo": "Accenture.png",
+    "description": "Exiting Russia completely",
+    "status": "Withdrawal",
+    "website": "https://www.accenture.com",
+    "instagram": "instagram.com/accenture",
+    "twitter": "twitter.com/accenture",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Bose",
+    "logo": "Bose.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": "https://www.bose.com/",
+    "instagram": "instagram.com/bose",
+    "twitter": "twitter.com/Bose",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Waters Corporation",
+    "logo": "Waters Corporation.jpg",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Centrica",
+    "logo": "Centrica.png",
+    "description": "Exit gas supply partnership with Gazprom",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Omnicom Group, Inc.",
+    "logo": "Omnicom Group, Inc..jpg",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "JetBrains",
+    "logo": "JetBrains.jpg",
+    "description": "Suspend all activity indefinitely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Grainpro",
+    "logo": "Grainpro.jpg",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "FICO",
+    "logo": "FICO.jpg",
+    "description": "Exiting all work in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Etsy",
+    "logo": "Etsy.png",
+    "description": "Deactivate all listings from Russian sellers",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Aldi",
+    "logo": "Aldi.png",
+    "description": "Remove products from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Herbert Smith",
+    "logo": "Herbert Smith.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Fitch",
+    "logo": "Fitch.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Formula One",
+    "logo": "Formula One.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "FIFA",
+    "logo": "FIFA.png",
+    "description": "Ban Russian athletes from competing",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Fortinet",
+    "logo": "Fortinet.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Freshfields",
+    "logo": "Freshfields.png",
+    "description": "Suspend certain Russian partnerships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Upwork",
+    "logo": "Upwork.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "YOOX",
+    "logo": "YOOX.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "WWE",
+    "logo": "WWE.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "WPP PLC",
+    "logo": "WPP PLC.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Airbnb",
+    "logo": "Airbnb.png",
+    "description": "Suspend bookings in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Rugby Union",
+    "logo": "World Rugby Union.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "AerCap",
+    "logo": "AerCap.png",
+    "description": "Cease lending to Russians",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Uniper SE",
+    "logo": "Uniper SE.png",
+    "description": "Suspend new Russian gas purchases/divest Unipro",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Rowing Federation",
+    "logo": "World Rowing Federation.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "AECOM",
+    "logo": "AECOM.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "United Airlines",
+    "logo": "United Airlines.png",
+    "description": "No flying over Russian airspace",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Vanguard",
+    "logo": "Vanguard.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Alaska Airlines",
+    "logo": "Alaska Airlines.png",
+    "description": "Suspend Russian partnerships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Rolex",
+    "logo": "Rolex.png",
+    "description": "Suspend exports to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nasdaq",
+    "logo": "Nasdaq.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Savills",
+    "logo": "Savills.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Esri",
+    "logo": "Esri.png",
+    "description": "Curtailing sales to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "KPMG",
+    "logo": "KPMG.png",
+    "description": "Leaving Russia completely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Netflix",
+    "logo": "Netflix.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Cycling Union",
+    "logo": "International Cycling Union.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Farfetch",
+    "logo": "Farfetch.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Ferragamo",
+    "logo": "Ferragamo.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Women's Tennis Association",
+    "logo": "Women's Tennis Association.png",
+    "description": "Suspend Russian partnerships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Global Foundries",
+    "logo": "Global Foundries.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "EPAM",
+    "logo": "EPAM.png",
+    "description": "Discontinue servicing Russian customers",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "R&A",
+    "logo": "R&A.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "BCG",
+    "logo": "BCG.png",
+    "description": "Suspend all consulting in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Shell",
+    "logo": "Shell.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Avid",
+    "logo": "Avid.png",
+    "description": "Suspend all sales to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Live Nation Entertainment",
+    "logo": "Live Nation Entertainment.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Linklaters",
+    "logo": "Linklaters.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Latham & Watkins",
+    "logo": "Latham & Watkins.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Clifford Chance",
+    "logo": "Clifford Chance.png",
+    "description": "Suspend certain Russian relationships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Morrisons",
+    "logo": "Morrisons.png",
+    "description": "Remove products from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Athletics Council",
+    "logo": "World Athletics Council.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Intercontinental Exchange",
+    "logo": "Intercontinental Exchange.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Winston & Strawn",
+    "logo": "Winston & Strawn.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "PwC",
+    "logo": "PwC.png",
+    "description": "Leaving Russia completely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Grant Thornton",
+    "logo": "Grant Thornton.png",
+    "description": "Closing business in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Hogan Lovells",
+    "logo": "Hogan Lovells.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Kuehne + Nagel AG",
+    "logo": "Kuehne + Nagel AG.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Eurovision",
+    "logo": "Eurovision.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Eversheds Sutherland",
+    "logo": "Eversheds Sutherland.png",
+    "description": "Close Russia office",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "White & Case",
+    "logo": "White & Case.png",
+    "description": "Wind down Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Skating Union",
+    "logo": "International Skating Union.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "UEFA",
+    "logo": "UEFA.png",
+    "description": "Ban Russian athletes from competing",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "EY",
+    "logo": "EY.png",
+    "description": "Leaving Russia completely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Crocs",
+    "logo": "Crocs.png",
+    "description": "Suspend D2C business",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Federation of Exchanges",
+    "logo": "World Federation of Exchanges.png",
+    "description": "Suspend all Russian members and affiliates",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Norton Rose Fulbright",
+    "logo": "Norton Rose Fulbright.png",
+    "description": "Exit from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "TJ Maxx",
+    "logo": "TJ Maxx.png",
+    "description": "Divest Familia subsidiary",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Wintershall Dea AG",
+    "logo": "Wintershall Dea AG.png",
+    "description": "Exit Russian investments",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Uber",
+    "logo": "Uber.png",
+    "description": "Divest from partnership with Yandex",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Korean Air Lines",
+    "logo": "Korean Air Lines.png",
+    "description": "No flying over Russian airspace",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Publicis Group",
+    "logo": "Publicis Group.png",
+    "description": "Cede ownership to local affiliates",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Boxing Council",
+    "logo": "World Boxing Council.png",
+    "description": "Suspend Russia from title fights",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bolt",
+    "logo": "Bolt.png",
+    "description": "Suspend Russian partnerships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Sabre",
+    "logo": "Sabre.png",
+    "description": "Suspend partnership with Aeroflot",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Ice Hockey Federation",
+    "logo": "International Ice Hockey Federation.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Norwegian Cruise Lines",
+    "logo": "Norwegian Cruise Lines.png",
+    "description": "Discontinue Russian itineraries",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Moody's",
+    "logo": "Moody's.png",
+    "description": "Suspend operations within Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Boxing Organization",
+    "logo": "World Boxing Organization.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "World Boxing Association",
+    "logo": "World Boxing Association.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Clarivate",
+    "logo": "Clarivate.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Exxon",
+    "logo": "Exxon.png",
+    "description": "Exit Rosneft partnership",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Avery Dennison",
+    "logo": "Avery Dennison.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Take-Two Interactive",
+    "logo": "Take-Two Interactive.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "TripAdvisor",
+    "logo": "TripAdvisor.png",
+    "description": "Remove Kremlin-linked propaganda and ads",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Coursera",
+    "logo": "Coursera.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Tennis Federation",
+    "logo": "International Tennis Federation.png",
+    "description": "Suspend Russian partnerships",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Signet Jewelers",
+    "logo": "Signet Jewelers.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "S&P",
+    "logo": "S&P.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Asos",
+    "logo": "Asos.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Asian Infrastructure Investment Bank",
+    "logo": "Asian Infrastructure Investment Bank.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Regent Seven Seas Cruises",
+    "logo": "Regent Seven Seas Cruises.png",
+    "description": "Discontinue Russian itineraries",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dentsu International",
+    "logo": "Dentsu International.png",
+    "description": "Divest joint venture/leave Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Grammarly",
+    "logo": "Grammarly.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Deloitte",
+    "logo": "Deloitte.png",
+    "description": "Leaving Russia completely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Knight Frank",
+    "logo": "Knight Frank.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "London Stock Exchange Group",
+    "logo": "London Stock Exchange Group.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "BP",
+    "logo": "BP.png",
+    "description": "Suspend operations/divest from 20% Rosneft stake",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Autodesk",
+    "logo": "Autodesk.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Boohoo Group",
+    "logo": "Boohoo Group.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Roku",
+    "logo": "Roku.png",
+    "description": "Remove Kremlin-linked propaganda and ads",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Morgan Lewis",
+    "logo": "Morgan Lewis.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Fazer",
+    "logo": "Fazer.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "MSC",
+    "logo": "MSC.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Asda",
+    "logo": "Asda.png",
+    "description": "Remove products from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "BlackRock",
+    "logo": "BlackRock.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Monroe Energy",
+    "logo": "Monroe Energy.png",
+    "description": "Suspend partnerships with Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Booking",
+    "logo": "Booking.png",
+    "description": "Suspend bookings in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "American Airlines",
+    "logo": "American Airlines.png",
+    "description": "No flying over Russian airspace",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Radio Free Europe",
+    "logo": "Radio Free Europe.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "ICBC",
+    "logo": "ICBC.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Baker Botts",
+    "logo": "Baker Botts.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Expedia",
+    "logo": "Expedia.png",
+    "description": "Suspend bookings in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "MSCI",
+    "logo": "MSCI.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "New Development Bank",
+    "logo": "New Development Bank.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Geodis",
+    "logo": "Geodis.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Coupa",
+    "logo": "Coupa.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Cat Federation",
+    "logo": "International Cat Federation.png",
+    "description": "Ban Russian cats from competitions",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Swarovski",
+    "logo": "Swarovski.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Oceana Cruises",
+    "logo": "Oceana Cruises.png",
+    "description": "Discontinue Russian itineraries",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Delta Air Lines",
+    "logo": "Delta Air Lines.png",
+    "description": "Suspend agreement with Aeroflot",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Equinor",
+    "logo": "Equinor.png",
+    "description": "Exit joint ventures in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Eni",
+    "logo": "Eni.png",
+    "description": "Divest Russian pipeline",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Boxing Federation",
+    "logo": "International Boxing Federation.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Netscout",
+    "logo": "Netscout.png",
+    "description": "Suspend Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Alcoa",
+    "logo": "Alcoa.png",
+    "description": "Suspend all business with Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "AMD",
+    "logo": "AMD.png",
+    "description": "Suspend all sales to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Allen & Overy",
+    "logo": "Allen & Overy.png",
+    "description": "Refuse new Russian partnerships but continue existing",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dentons",
+    "logo": "Dentons.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Cummins",
+    "logo": "Cummins.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Baker McKenzie",
+    "logo": "Baker McKenzie.png",
+    "description": "Suspend services for all Kremlin entities only",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "BBDO",
+    "logo": "BBDO.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dentsu International",
+    "logo": "Dentsu International.png",
+    "description": "Divest joint venture/leave Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Omnicom Media Group",
+    "logo": "Omnicom Media Group.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Baker Tilly",
+    "logo": "Baker Tilly.png",
+    "description": "Gradual wind down of operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Activision Blizzard",
+    "logo": "Activision Blizzard.png",
+    "description": "Suspend all sales in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Acronis",
+    "logo": "Acronis.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Adenza",
+    "logo": "Adenza.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DXC Technology",
+    "logo": "DXC Technology.png",
+    "description": "Leaving Russia completely",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Deezer",
+    "logo": "Deezer.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "J Sainsbury",
+    "logo": "J Sainsbury.png",
+    "description": "Remove products from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "WeWork",
+    "logo": "WeWork.png",
+    "description": "Planning divestment of Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Electronic Arts",
+    "logo": "Electronic Arts.png",
+    "description": "Suspend all operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Paulig",
+    "logo": "Paulig.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Interpublic Group",
+    "logo": "Interpublic Group.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DB Schenker",
+    "logo": "DB Schenker.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "International Weightlifting Federation",
+    "logo": "International Weightlifting Federation.png",
+    "description": "Ban on all Russian competition",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "eBay",
+    "logo": "eBay.png",
+    "description": "Suspend all shipments to Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Par Pacific",
+    "logo": "Par Pacific.png",
+    "description": "Suspend partnerships with Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Carnival",
+    "logo": "Carnival.png",
+    "description": "Discontinue Russia itineraries",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Daimler",
+    "logo": "Daimler.png",
+    "description": "Suspending all business in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "IOC",
+    "logo": "IOC.png",
+    "description": "Ban Russian athletes from competing",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "State Street",
+    "logo": "State Street.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "OMV",
+    "logo": "OMV.png",
+    "description": "Divest Russian projects",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Brown-Forman",
+    "logo": "Brown-Forman.png",
+    "description": "Suspend commercial operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bryan Cave",
+    "logo": "Bryan Cave.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Spotify",
+    "logo": "Spotify.png",
+    "description": "Closed office and other restrictions",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "EarthDaily Analytics",
+    "logo": "EarthDaily Analytics.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Stanley Black & Decker",
+    "logo": "Stanley Black & Decker.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Squire Patton Boggs",
+    "logo": "Squire Patton Boggs.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Bumble",
+    "logo": "Bumble.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "McKinsey",
+    "logo": "McKinsey.png",
+    "description": "Suspend all consulting in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "British American Tobacco",
+    "logo": "British American Tobacco.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Waitrose",
+    "logo": "Waitrose.png",
+    "description": "Remove products from Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "OneWeb",
+    "logo": "OneWeb.png",
+    "description": "Suspend use of Russian airspace",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Dechert",
+    "logo": "Dechert.png",
+    "description": "Suspend operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Marsh McLennan",
+    "logo": "Marsh McLennan.png",
+    "description": "Exit operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DLA Piper",
+    "logo": "DLA Piper.png",
+    "description": "Suspend certain operations in Russia",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "DDB",
+    "logo": "DDB.png",
+    "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  }
+]
