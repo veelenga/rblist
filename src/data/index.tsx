@@ -156,7 +156,7 @@ const data = [
     tags: ["consulting"],
   },
   {
-    name: "Ernst & Young",
+    name: "EY",
     logo: "e&y.png",
     description:
       "Removes its Russian practice from its official global network",
@@ -164,7 +164,7 @@ const data = [
     tags: ["consulting"],
   },
   {
-    name: "PricewaterhouseCoopers",
+    name: "PwC",
     logo: "pwc.png",
     description: "Breaks away from its Russian business",
     status: "Suspension",
@@ -193,7 +193,7 @@ const data = [
     tags: ["energy"],
   },
   {
-    name: "Exxon Mobil",
+    name: "Exxon",
     logo: "exxon.png",
     description:
       "Leaves its last remaining oil-and-gas project in Russia and not to invest in new developments in the country",
@@ -771,7 +771,7 @@ const data = [
     tags: ["tech"],
   },
   {
-    name: "Formula 1",
+    name: "Formula One",
     logo: "formula.png",
     description:
       "Suspends all operations in Russia and cancellation of the tournament in Sochi",
@@ -823,7 +823,7 @@ const data = [
     tags: ["tech"],
   },
   {
-    name: "Harley Davidson ",
+    name: "Harley-Davidson ",
     logo: "harley.jpg",
     description: "Closes business in Russia",
     status: "Withdrawal",
