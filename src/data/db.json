@@ -85,7 +85,7 @@
   },
   {
     "name": "Twin Disc",
-    "logo": "Twin Disc.twin",
+    "logo": "twin.png",
     "description": "Suspend all shipments to Russia",
     "status": "Suspension",
     "website": "https://www.twindisc.com",
@@ -445,7 +445,7 @@
   },
   {
     "name": "Uniqlo/Fast Retailing",
-    "logo": "Uniqlo/Fast Retailing.png",
+    "logo": "ufr.png",
     "description": "Suspend operations in Russia",
     "status": "Suspension",
     "website": null,
@@ -505,7 +505,7 @@
   },
   {
     "name": "Airbus",
-    "logo": "Airbus.png",
+    "logo": "airbus.png",
     "description": "Suspend supply of parts to Aeroflot",
     "status": "Suspension",
     "website": null,
@@ -2065,7 +2065,7 @@
   },
   {
     "name": "DSV A/S",
-    "logo": "DSV A/S.png",
+    "logo": "DSV.png",
     "description": "Suspend all shipments to Russia",
     "status": "Suspension",
     "website": null,
@@ -2977,7 +2977,7 @@
   },
   {
     "name": "PwC",
-    "logo": "PwC.png",
+    "logo": "pwc.png",
     "description": "Leaving Russia completely",
     "status": "Withdrawal",
     "website": null,
@@ -3291,18 +3291,6 @@
     "name": "Clarivate",
     "logo": "Clarivate.png",
     "description": "Exit Russian operations",
-    "status": "Withdrawal",
-    "website": null,
-    "instagram": null,
-    "twitter": null,
-    "tags": [
-
-    ]
-  },
-  {
-    "name": "Exxon",
-    "logo": "Exxon.png",
-    "description": "Exit Rosneft partnership",
     "status": "Withdrawal",
     "website": null,
     "instagram": null,

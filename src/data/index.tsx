@@ -815,6 +815,20 @@ const data = [
     status: "Scaling Back",
     tags: ["finance"],
   },
+  {
+    name: "ASUS",
+    logo: "asus.png",
+    description: "Stops operations in Russia",
+    status: "Suspension",
+    tags: ["tech"],
+  },
+  {
+    name: "Harley Davidson ",
+    logo: "harley.jpg",
+    description: "Closes business in Russia",
+    status: "Withdrawal",
+    tags: ["transport"],
+  },
 ];
 
 companyDb.forEach((item: ListItem) => {
