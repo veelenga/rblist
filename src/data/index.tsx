@@ -164,13 +164,6 @@ const data = [
     tags: ["consulting"],
   },
   {
-    name: "KPMG International",
-    logo: "kpmg.png",
-    description: "Russia and Belarus firms will leave the KPMG network",
-    status: "Suspension",
-    tags: ["consulting"],
-  },
-  {
     name: "PricewaterhouseCoopers",
     logo: "pwc.png",
     description: "Breaks away from its Russian business",
@@ -825,7 +818,11 @@ const data = [
 ];
 
 companyDb.forEach((item: ListItem) => {
-  if (!data.find((dataItem) => dataItem.name === item.name)) {
+  if (
+    !data.find(
+      (dataItem) => dataItem.name.toLowerCase() === item.name.toLowerCase()
+    )
+  ) {
     data.push(item);
   }
 });
