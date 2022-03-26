@@ -6,10 +6,14 @@ interface IProps {
 }
 
 function LinkWithIcon(props: IProps) {
-  const { url, children } = props
+  let { url, children } = props
 
   if (!url) {
     return null
+  }
+
+  if (!url.startsWith("http")) {
+    url = `https://${url}`
   }
 
   return (
