@@ -2,7 +2,7 @@ import React, { useCallback, useMemo, useState } from "react";
 import SearchForm from "./SearchForm";
 import SearchList from "./SearchList";
 import { ListItem } from "../data/index";
-import { STATUSES, STATUS_ORDER } from "./Status";
+import { STATUSES } from "./Status";
 
 interface IProps {
   items: Array<ListItem>;
@@ -10,10 +10,6 @@ interface IProps {
 
 const containsTag = (item: ListItem, tags: Set<string>) =>
   item.tags.some((tag) => tags.has(tag));
-
-const sortStatus = (item1: ListItem, item2: ListItem) => (
-  STATUS_ORDER[item1.status] - STATUS_ORDER[item2.status]
-)
 
 const PER_PAGE = 40;
 
@@ -36,7 +32,7 @@ function Search(props: IProps) {
   const filteredItems = useMemo(() => {
     let newItems = items
       .filter((item) => item.name.toLowerCase().includes(query))
-      .sort(sortStatus);
+      .sort((a, b) => a.name.localeCompare(b.name));
 
     if (selectedStatuses.size > 0) {
       newItems = newItems.filter((item) => selectedStatuses.has(item.status))

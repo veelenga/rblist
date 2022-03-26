@@ -21,7 +21,7 @@ function Tag(props: IProps) {
   ];
 
   if (clickable) {
-    tagClasses.push("cursor-pointer", "md:text-sm", "font-semibold");
+    tagClasses.push("cursor-pointer", "md:text-sm");
     selected || tagClasses.push("bg-gray-200");
   } else {
     tagClasses.push("text-neutral-400");

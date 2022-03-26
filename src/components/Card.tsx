@@ -13,11 +13,13 @@ function Card(props: IProps) {
   const { item } = props;
 
   const logo = `/logo/${item.logo}`;
-  const borderColor = STATUS_COLOR[item.status] || "gray-50";
 
   return (
     <div
-      className={`h-36 w-80 px-2 m-1 rounded overflow-hidden border-2 border-${borderColor}`}
+      className={`h-36 w-80 px-2 m-1 rounded overflow-hidden border-2`}
+      style={{
+        borderColor: STATUS_COLOR[item.status]
+      }}
     >
       <div className="flex">
         <img

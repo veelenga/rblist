@@ -6,31 +6,15 @@ interface IProps {
   onClicked: (name: string) => void;
 }
 
-export const STATUS_ORDER: { [key: string]: number } = {
-  "Digging In": 0,
-  "Buying Time": 1,
-  "Scaling Back": 2,
-  Suspension: 3,
-  Withdrawal: 4
-}
-
 export const STATUS_COLOR: { [key: string]: string } = {
-  "Digging In": "red-600",
-  "Buying Time": "red-400",
-  "Scaling Back": "red-200",
-  Suspension: "orange-100",
-  Withdrawal: "green-100",
+  "Digging In": "rgb(239 68 68)",
+  "Buying Time": "rgb(252 165 165)",
+  "Scaling Back": "rgb(254 226 226)",
+  Suspension: "rgb(255 237 213)",
+  Withdrawal: "rgb(220 252 231)",
 };
 
-export const BORDER_STATUS_COLOR: { [key: string]: string } = {
-  "Digging In": "red-800",
-  "Buying Time": "red-600",
-  "Scaling Back": "red-400",
-  Suspension: "orange-200",
-  Withdrawal: "green-200",
-};
-
-export const STATUSES = Object.keys(STATUS_COLOR)
+export const STATUSES = Object.keys(STATUS_COLOR);
 
 function Status(props: IProps) {
   const { name, selected, onClicked } = props;
@@ -44,18 +28,17 @@ function Status(props: IProps) {
     "mb-1",
     "cursor-pointer",
     "md:text-sm",
-    "border-2"
   ];
 
-
-  if (selected) {
-    classes.push(`bg-${STATUS_COLOR[name]}`, `border-${BORDER_STATUS_COLOR[name]}`)
-  } else {
-    classes.push('bg-gray-200')
-  }
-
   return (
-    <span key={name} onClick={() => onClicked(name)} className={classes.join(" ")}>
+    <span
+      key={name}
+      onClick={() => onClicked(name)}
+      className={classes.join(" ")}
+      style={{
+        backgroundColor: selected ? STATUS_COLOR[name] : "rgb(229 231 235)",
+      }}
+    >
       {name}
     </span>
   );
