@@ -4,6 +4,9 @@ export type ListItem = {
   name: string;
   description: string;
   status: string;
+  website?: string | null;
+  twitter?: string | null;
+  instagram?: string | null;
   logo: string;
   tags: string[];
 };

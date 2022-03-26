@@ -1,5 +1,1505 @@
 [
   {
+    "name": "Henkel",
+    "logo": "Henkel.png",
+    "description": "Suspend investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.henkel.com",
+    "instagram": "instagram.com/henkel",
+    "twitter": "twitter.com/Henkel",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Siemens Energy AG (Independent)",
+    "logo": "Siemens Energy AG (Independent).png",
+    "description": "Freeze new business in Russia",
+    "status": "Buying Time",
+    "website": "https://www.siemens-energy.com",
+    "instagram": null,
+    "twitter": "https://twitter.com/siemens_energy",
+    "tags": [
+      "utilities"
+    ]
+  },
+  {
+    "name": "Accor",
+    "logo": "Accor.png",
+    "description": "Suspend new investments/development",
+    "status": "Buying Time",
+    "website": "https://group.accor.com/en",
+    "instagram": "instagram.com/all",
+    "twitter": "twitter.com/all",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Air Liquide",
+    "logo": "Air Liquide.png",
+    "description": "Suspend investment/development but not operations",
+    "status": "Buying Time",
+    "website": "https://www.airliquide.com",
+    "instagram": "instagram.com/airliquide",
+    "twitter": "twitter.com/airliquidegroup",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Pirelli",
+    "logo": "Pirelli.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.pirelli.com",
+    "instagram": "instagram.com/pirelli",
+    "twitter": "twitter.com/pirelli",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Schneider Electric",
+    "logo": "Schneider Electric.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.se.com/ww/en",
+    "instagram": "https://www.instagram.com/schneiderelectric/",
+    "twitter": "https://twitter.com/SchneiderElec",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Japan Tobacco",
+    "logo": "Japan Tobacco.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.jt.com",
+    "instagram": null,
+    "twitter": "https://twitter.com/jti_global",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Unilever",
+    "logo": "Unilever.png",
+    "description": "Suspend new investments but not domestic operations",
+    "status": "Buying Time",
+    "website": "https://www.unilever.com",
+    "instagram": "instagram.com/unilever",
+    "twitter": "twitter.com/unilever",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Intercontinental Hotels",
+    "logo": "Intercontinental Hotels.png",
+    "description": "Suspend new investments/close corporate office",
+    "status": "Buying Time",
+    "website": "https://www.ihgplc.com",
+    "instagram": "instagram.com/intercontinental",
+    "twitter": "twitter.com/intercontinental",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "ADM",
+    "logo": "ADM.png",
+    "description": "Unspecified scaling down of non-essential operations",
+    "status": "Buying Time",
+    "website": "https://www.adm.com",
+    "instagram": "instagram.com/admgroupinc",
+    "twitter": "twitter.com/admupdates",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Cargill",
+    "logo": "Cargill.png",
+    "description": "Unspecified scaling down of non-essential operations",
+    "status": "Buying Time",
+    "website": "www.cargill.com",
+    "instagram": "instagram.com/cargill",
+    "twitter": "twitter.com/cargill",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Rockwool",
+    "logo": "Rockwool.png",
+    "description": "Cancel new investments in Russia",
+    "status": "Buying Time",
+    "website": "www.rockwool.com",
+    "instagram": "instagram.com/rockwoolgroup",
+    "twitter": "twitter.com/rockwool_group",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Baker Hughes",
+    "logo": "Baker Hughes.png",
+    "description": "Suspend new investments/development",
+    "status": "Buying Time",
+    "website": "https://www.bakerhughes.com",
+    "instagram": "instagram.com/bakerhughesco",
+    "twitter": "twitter.com/bakerhughesco",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Otis Worldwide",
+    "logo": "Otis Worldwide.png",
+    "description": "Suspend new investments/new contracts",
+    "status": "Buying Time",
+    "website": "https://www.otis.com",
+    "instagram": "instagram.com/otiselevatorco",
+    "twitter": "twitter.com/otiselevatorco",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Danone",
+    "logo": "Danone.png",
+    "description": "Suspend new investment in Russia only",
+    "status": "Buying Time",
+    "website": "https://www.danone.com",
+    "instagram": "instagram.com/danone",
+    "twitter": "twitter.com/danone",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Nestle",
+    "logo": "Nestle.png",
+    "description": "Suspend new investments/advertising",
+    "status": "Buying Time",
+    "website": "https://www.nestle.com",
+    "instagram": "instagram.com/nestle",
+    "twitter": "twitter.com/nestle",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Lamb Weston",
+    "logo": "Lamb Weston.png",
+    "description": "Suspend new investments but not domestic operations",
+    "status": "Buying Time",
+    "website": "https://www.lambweston.com",
+    "instagram": "instagram.com/lambweston",
+    "twitter": "twitter.com/lambweston",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Abbott Labs",
+    "logo": "Abbott Labs.png",
+    "description": "Suspend non-essential business activity",
+    "status": "Buying Time",
+    "website": "https://www.abbott.com",
+    "instagram": "instagram.com/abbottglobal",
+    "twitter": "twitter.com/AbbottNews",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Coty",
+    "logo": "Coty.png",
+    "description": "Suspend new investments and advertising only",
+    "status": "Buying Time",
+    "website": "https://www.coty.com",
+    "instagram": "instagram.com/COTYinc",
+    "twitter": "twitter.com/COTYinc",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Hyatt",
+    "logo": "Hyatt.png",
+    "description": "Suspend investments and new developments",
+    "status": "Buying Time",
+    "website": "https://www.hyatt.com",
+    "instagram": "instagram.com/hyatt",
+    "twitter": "twitter.com/hyatt",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Philip Morris",
+    "logo": "Philip Morris.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.pmi.com",
+    "instagram": "instagram.com/phillipmorrisco",
+    "twitter": "twitter.com/InsidePMI",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Hines",
+    "logo": "Hines.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://ir.zhihu.com",
+    "instagram": "instagram.com/hines",
+    "twitter": "twitter.com/hines",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "name": "Merck",
+    "logo": "Merck.png",
+    "description": "Pause new investments/clinical trial enrollment",
+    "status": "Buying Time",
+    "website": "https://www.merck.com",
+    "instagram": "instagram.com/merck",
+    "twitter": "twitter.com/merck",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "General Mills",
+    "logo": "General Mills.png",
+    "description": "Suspend capital investments/advertising for JV",
+    "status": "Buying Time",
+    "website": "https://www.generalmills.com",
+    "instagram": "instagram.com/generalmills",
+    "twitter": "twitter.com/generalmills",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Siemens",
+    "logo": "Siemens.png",
+    "description": "Freeze new business in Russia",
+    "status": "Buying Time",
+    "website": "https://www.siemens.com",
+    "instagram": "instagram.com/siemens",
+    "twitter": "twitter.com/siemens",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "AmerisourceBergen",
+    "logo": "AmerisourceBergen.png",
+    "description": "Suspend new business initiatives but continue existing",
+    "status": "Buying Time",
+    "website": "https://www.amerisourcebergen.com",
+    "instagram": "instagram.com/amerisourcebergen",
+    "twitter": "twitter.com/Healthcare_ABC",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Kimberly-Clark",
+    "logo": "Kimberly-Clark.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.kimberly-clark.com",
+    "instagram": "instagram.com/kccorp",
+    "twitter": "twitter.com/kccorp",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Mohawk Industries",
+    "logo": "Mohawk Industries.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.mohawkind.com",
+    "instagram": "instagram.com/mohawkind",
+    "twitter": "twitter.com/mohawkind",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Yum Brands",
+    "logo": "Yum Brands.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.yum.com",
+    "instagram": "instagram.com/yumbrands",
+    "twitter": "twitter.com/yumbrands",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Johnson & Johnson",
+    "logo": "Johnson & Johnson.png",
+    "description": "Pause patient enrollment in ongoing trials",
+    "status": "Buying Time",
+    "website": "https://www.jnj.com",
+    "instagram": "instagram.com/JNJnews",
+    "twitter": "twitter.com/JNJnews",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Procter & Gamble",
+    "logo": "Procter & Gamble.png",
+    "description": "Suspend new investment/advertising in Russia",
+    "status": "Buying Time",
+    "website": "https://www.pginvestor.com",
+    "instagram": "instragram.com/proctergamble",
+    "twitter": "twitter.com/proctergamble",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "GlaxoSmithKline",
+    "logo": "GlaxoSmithKline.png",
+    "description": "Suspend advertising/new clinical trials in Russia",
+    "status": "Buying Time",
+    "website": "https://www.gsk.com",
+    "instagram": "instagram.com/gsk",
+    "twitter": "twitter.com/GSK",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "BASF SE",
+    "logo": "BASF SE.png",
+    "description": "Suspend new Russian relationships but not existing",
+    "status": "Buying Time",
+    "website": "https://www.basf.com",
+    "instagram": "instagram.com/basf_global",
+    "twitter": "twitter.com/BASFCorporation",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Arconic",
+    "logo": "Arconic.png",
+    "description": "Suspend new contracts but continue existing",
+    "status": "Buying Time",
+    "website": "https://www.arconic.com",
+    "instagram": "instagram.com/arconic",
+    "twitter": "twitter.com/arconic",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Linde",
+    "logo": "Linde.png",
+    "description": "Suspend new development/investments",
+    "status": "Buying Time",
+    "website": "https://www.linde.com",
+    "instagram": "instagram.com/lindeplc",
+    "twitter": "twitter.com/lindeplc",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Schlumberger",
+    "logo": "Schlumberger.png",
+    "description": "Suspend new investments/development",
+    "status": "Buying Time",
+    "website": "https://www.slb.com",
+    "instagram": "instagram.com/schlumberger",
+    "twitter": "twitter.com/schlumberger",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Weatherford International",
+    "logo": "Weatherford International.png",
+    "description": "Suspend new investments/deployments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.weatherford.com",
+    "instagram": "https://www.instagram.com/weatherfordcorp/",
+    "twitter": "https://twitter.com/WeatherfordCorp",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Emerson Electric",
+    "logo": "Emerson Electric.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.emerson.com",
+    "instagram": "https://www.instagram.com/emersonelectricllc",
+    "twitter": "https://twitter.com/Emerson_News",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Bayer",
+    "logo": "Bayer.png",
+    "description": "Suspend non-essential business activity",
+    "status": "Buying Time",
+    "website": "https://www.bayer.com",
+    "instagram": "instagram.com/bayerofficial",
+    "twitter": "twitter.com/bayer",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "PPG",
+    "logo": "PPG.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "https://www.ppg.com",
+    "instagram": "https://www.instagram.com/ppgindustries/?hl=en",
+    "twitter": "https://twitter.com/PPG",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Hilton",
+    "logo": "Hilton.png",
+    "description": "Suspend new investments/close corporate office",
+    "status": "Buying Time",
+    "website": "https://www.hilton.com",
+    "instagram": "instagram.com/hiltonnewsroom/",
+    "twitter": "twitter.com/hiltonnewsroom",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Norsk Hydro",
+    "logo": "Norsk Hydro.png",
+    "description": "Freeze Russian investments/no new contracts",
+    "status": "Buying Time",
+    "website": "https://www.hydro.com",
+    "instagram": "instagram.com/norskhydroASA",
+    "twitter": "twitter.com/norskhydroASA",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "TotalEnergies",
+    "logo": "TotalEnergies.png",
+    "description": "Suspend new investmenta in Russia",
+    "status": "Buying Time",
+    "website": "https://www.totalenergies.com",
+    "instagram": "instagram.com/totalenergies",
+    "twitter": "twitter.com/totalenergies",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Kraft Heinz - JBS",
+    "logo": "Kraft Heinz - JBS.png",
+    "description": "Suspend new investments but not domestic operations",
+    "status": "Buying Time",
+    "website": "https://www.kraftheinzcompany.com",
+    "instagram": "instagram.com/kraftheinzus",
+    "twitter": "twitter/com/kraftheinzus",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Mondelez - Nabisco",
+    "logo": "Mondelez - Nabisco.png",
+    "description": "Suspend new investments/advertising",
+    "status": "Buying Time",
+    "website": "https://www.mondelezinternational.com",
+    "instagram": "instagram.com/MDLZ",
+    "twitter": "twitter.com/MDLZ",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "logo": "Colgate-Palmolive.png",
+    "description": "Continue essential health and hygiene products",
+    "status": "Buying Time",
+    "website": "https://www.colgatepalmolive.com",
+    "instagram": "instagram.com_CPnews",
+    "twitter": "twitter.com/CPnews",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Pfizer",
+    "logo": "Pfizer.png",
+    "description": "Suspend new investments/clinical trials in Russia",
+    "status": "Buying Time",
+    "website": "https://www.pfizer.com",
+    "instagram": "instagram.com/pfizerinc",
+    "twitter": "twitter.com/Pfizer",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Marriott",
+    "logo": "Marriott.png",
+    "description": "Suspend new investment/close corp. office",
+    "status": "Buying Time",
+    "website": "https://www.marriott.com",
+    "instagram": "instagram.com/marriotthotels",
+    "twitter": "twitter.com/marriotthotels",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Halliburton",
+    "logo": "Halliburton.png",
+    "description": "Suspend future business in Russia",
+    "status": "Buying Time",
+    "website": "https://www.halliburton.com",
+    "instagram": "instagram.com/halliburton/",
+    "twitter": "twitter.com/halliburton",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Sanofi",
+    "logo": "Sanofi.png",
+    "description": "Suspend new investment/advertising in Russia",
+    "status": "Buying Time",
+    "website": "https://www.sanofi.com",
+    "instagram": "instagram.com/sanofi",
+    "twitter": "twitter.com/sanofi",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Reckitt Benckiser Group",
+    "logo": "Reckitt Benckiser Group.png",
+    "description": "Suspend new investments/advertising in Russia",
+    "status": "Buying Time",
+    "website": "https://www.reckitt.com",
+    "instagram": "instagram.com/thisisreckitt",
+    "twitter": "twitter.com/discoverrb",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Mars",
+    "logo": "Mars.png",
+    "description": "Suspend advertising/new investments in Russia",
+    "status": "Buying Time",
+    "website": "www.mars.com",
+    "instagram": "instagram.com/marswrigley",
+    "twitter": "twitter.com/marswrigley",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Subway",
+    "logo": "Subway.png",
+    "description": "Suspend new investments/advertising",
+    "status": "Buying Time",
+    "website": "www.subway.com",
+    "instagram": "instagram.com/subway",
+    "twitter": "twitter.com/subway",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Dunkin Donuts",
+    "logo": "Dunkin Donuts.png",
+    "description": "Suspend new investments and developments only",
+    "status": "Buying Time",
+    "website": "www.dunkindonuts.com",
+    "instagram": "instagram.com/dunkin",
+    "twitter": "twitter.com/dunkin",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Focus Brands - Cinnabon",
+    "logo": "Focus Brands - Cinnabon.png",
+    "description": "Suspend new investments/development",
+    "status": "Buying Time",
+    "website": "www.cinnabon.com",
+    "instagram": "instagram.com/cinnabon",
+    "twitter": "twitter.com/cinnabon",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Barilla",
+    "logo": "Barilla.png",
+    "description": "Suspend new investments/advertising",
+    "status": "Buying Time",
+    "website": "www.barilla.com",
+    "instagram": "instagram.com/barillagroup",
+    "twitter": "twitter.com/barillagroup",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Trafigura",
+    "logo": "Trafigura.png",
+    "description": "Suspend new investments in Russia",
+    "status": "Buying Time",
+    "website": "www.trafigura.com",
+    "instagram": "instagram.com/trafigura",
+    "twitter": "twitter.com/trafigura",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Credit Suisse",
+    "logo": "Credit Suisse.png",
+    "description": "$1 billion in net exposure to Russia",
+    "status": "Digging In",
+    "website": "https://www.credit-suisse.com",
+    "instagram": "instagram.com/creditsuisse_ch",
+    "twitter": "twitter.com/CreditSuisse",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Glencore",
+    "logo": "Glencore.png",
+    "description": "Equity investments in Rosneft and others",
+    "status": "Digging In",
+    "website": "https://www.glencore.com",
+    "instagram": "https://www.instagram.com/glencoreplc/",
+    "twitter": "https://twitter.com/Glencore",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "ID Logistics",
+    "logo": "ID Logistics.jpg",
+    "description": "Significant Russian subsidiary",
+    "status": "Digging In",
+    "website": "https://www.id-logistics.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Greif",
+    "logo": "Greif.png",
+    "description": "9 plants in Russia",
+    "status": "Digging In",
+    "website": "https://www.greif.com",
+    "instagram": null,
+    "twitter": "https://twitter.com/greifinc",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Raiffeisen Bank International",
+    "logo": "Raiffeisen Bank International.png",
+    "description": "$25 billion in net exposure to Russia",
+    "status": "Digging In",
+    "website": "https://www.rbinternational.com",
+    "instagram": "https://www.instagram.com/raiffeisenbank_rus/",
+    "twitter": "https://www.twitter.com/ra",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Asus",
+    "logo": "Asus.png",
+    "description": "Not disclosed publicly",
+    "status": "Digging In",
+    "website": "https://www.asus.com",
+    "instagram": "instagram.com/asus",
+    "twitter": "twitter.com/asus",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "MSI",
+    "logo": "MSI.png",
+    "description": "Not disclosed publicly, but significant market share",
+    "status": "Digging In",
+    "website": "https://www.msi.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Acer",
+    "logo": "Acer.jpg",
+    "description": "Not disclosed publicly, but significant market share",
+    "status": "Digging In",
+    "website": "https://www.acer-group.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Young Living",
+    "logo": "Young Living.jpg",
+    "description": "Distributors in Russia",
+    "status": "Digging In",
+    "website": "https://www.youngliving.com/us/en/company",
+    "instagram": "https://www.instagram.com/youngliving/",
+    "twitter": "twitter.com/youngliving",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Koch Industries",
+    "logo": "Koch Industries.png",
+    "description": "Several business lines in Russia",
+    "status": "Digging In",
+    "website": "https://www.kochind.com/",
+    "instagram": "https://www.instagram.com/kochindustriesinc/?hl=en",
+    "twitter": "https://twitter.com/kochindustries?lang=en",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "SC Johnson",
+    "logo": "SC Johnson.png",
+    "description": "Manufacturing facility in Chudovo and sales",
+    "status": "Digging In",
+    "website": "https://www.scjohnson.com/",
+    "instagram": "https://www.instagram.com/scj/",
+    "twitter": "https://twitter.com/SCJohnson",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Knauf",
+    "logo": "Knauf.png",
+    "description": "Russian production sites",
+    "status": "Digging In",
+    "website": "knauf.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "FM Global",
+    "logo": "FM Global.png",
+    "description": "Deep relationship with Ingosstrakh",
+    "status": "Digging In",
+    "website": "www.fmglobal.com",
+    "instagram": null,
+    "twitter": "twitter.com/fmglobal",
+    "tags": [
+      "insurance"
+    ]
+  },
+  {
+    "name": "MOLGroup",
+    "logo": "MOLGroup.jpg",
+    "description": "Development and operation of Baitugan field",
+    "status": "Digging In",
+    "website": "molgroup.info",
+    "instagram": null,
+    "twitter": "twitter.com/mol_group",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Gruma",
+    "logo": "Gruma.png",
+    "description": "9 plants in Russia, Greif Perm and Greif Vologda in Russia",
+    "status": "Digging In",
+    "website": "https://www.gruma.com",
+    "instagram": null,
+    "twitter": "twitter.com/GrumaGlobal",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Societe Generale",
+    "logo": "Societe Generale.png",
+    "description": "$20 billion in net exposure to Russia and 2.8% of income",
+    "status": "Digging In",
+    "website": "https://www.societegenerale.com",
+    "instagram": "https://www.instagram.com/societegenerale/",
+    "twitter": "https://twitter.com/societegenerale",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Cloudflare",
+    "logo": "Cloudflare.png",
+    "description": "Not disclosed publicly",
+    "status": "Digging In",
+    "website": "https://www.cloudflare.com",
+    "instagram": "instagram.com/cloudflare",
+    "twitter": "twitter.com/cloudlfare",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "International Paper",
+    "logo": "International Paper.png",
+    "description": "Significant stake in Ilim",
+    "status": "Digging In",
+    "website": "https://www.internationalpaper.com",
+    "instagram": "https://www.instagram.com/internationalpaper/?hl=en",
+    "twitter": "https://twitter.com/intlpaperco",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Fortive",
+    "logo": "Fortive.png",
+    "description": "Not disclosed publicly",
+    "status": "Digging In",
+    "website": "https://www.fortive.com",
+    "instagram": "https://www.instagram.com/fortivecorp",
+    "twitter": "https://twitter.com/fortivecorp",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Ball Corporation",
+    "logo": "Ball Corporation.png",
+    "description": "3 plants in Russia",
+    "status": "Digging In",
+    "website": "https://www.ball.com",
+    "instagram": "instagram.com/ballcorporation",
+    "twitter": "twitter.com/BallCorpHQ",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Manitowoc",
+    "logo": "Manitowoc.png",
+    "description": "Significant sales to Russia",
+    "status": "Digging In",
+    "website": "https://www.manitowoc.com",
+    "instagram": "https://www.instagram.com/explore/tags/manitowoc/?hl=en",
+    "twitter": "https://twitter.com/manitowocco?lang=en",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Naspers",
+    "logo": "Naspers.png",
+    "description": "Platform has military-linked classified ads in Russia",
+    "status": "Digging In",
+    "website": "https://www.naspers.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "name": "Teradata",
+    "logo": "Teradata.jpg",
+    "description": "Partnerships with Russian banks include Sberbank",
+    "status": "Digging In",
+    "website": "https://www.teradata.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Deutsche Telekom",
+    "logo": "Deutsche Telekom.png",
+    "description": "2,000 employees in Russia",
+    "status": "Digging In",
+    "website": "https://www.telekom.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "name": "Lenovo",
+    "logo": "Lenovo.jpg",
+    "description": "Not disclosed publicly, but significant market share",
+    "status": "Digging In",
+    "website": "https://www.lenovo.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "IPG Photonics",
+    "logo": "IPG Photonics.png",
+    "description": "High power laser sales in Russia",
+    "status": "Digging In",
+    "website": "https://www.ipgphotonics.com",
+    "instagram": "https://www.instagram.com/ipg_photonics/?hl=en",
+    "twitter": "https://twitter.com/ipgphotonics?lang=en",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Metro",
+    "logo": "Metro.png",
+    "description": "$3 billion in revenue ",
+    "status": "Digging In",
+    "website": "https://www.metro.ca",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "AstraZeneca",
+    "logo": "AstraZeneca.png",
+    "description": "250 staff and Kaluga production facility",
+    "status": "Digging In",
+    "website": "https://www.astrazeneca.com",
+    "instagram": "instagram.com/astrazeneca",
+    "twitter": "www.twitter.com/AstraZeneca",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Calfrac Well Services",
+    "logo": "Calfrac Well Services.jpg",
+    "description": "11% of revenues from Russia",
+    "status": "Digging In",
+    "website": "https://www.calfrac.com",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Geberit",
+    "logo": "Geberit.png",
+    "description": "2% of revenue from Russia",
+    "status": "Digging In",
+    "website": "https://www.geberit.com",
+    "instagram": "https://www.instagram.com/geberit_group/",
+    "twitter": "https://twitter.com/GeberitGroup",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Liebrecht & Wood",
+    "logo": "Liebrecht & Wood.png",
+    "description": "Commercial real estate in Russia",
+    "status": "Digging In",
+    "website": "https://liebrecht-wood.com/",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "real estate"
+    ]
+  },
+  {
+    "name": "Cersanit",
+    "logo": "Cersanit.png",
+    "description": "Sanitation equipment exports",
+    "status": "Digging In",
+    "website": "https://www.cersanit.com/about-us/",
+    "instagram": "https://www.instagram.com/cersanitpolska/",
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Leroy Merlin",
+    "logo": "Leroy Merlin.png",
+    "description": "$4 billion in revenue from Russia",
+    "status": "Digging In",
+    "website": "https://www.leroymerlin.com/",
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Polpharma",
+    "logo": "Polpharma.jpg",
+    "description": "Investment in Akrikhin",
+    "status": "Digging In",
+    "website": "https://polpharma.pl/en/",
+    "instagram": "https://www.instagram.com/team_polpharma/?hl=pl",
+    "twitter": null,
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Emirates Airlines",
+    "logo": "Emirates Airlines.png",
+    "description": "Not disclosed publicly",
+    "status": "Digging In",
+    "website": "https://www.emirates.com/us/english/",
+    "instagram": "https://www.instagram.com/emirates/",
+    "twitter": "https://twitter.com/emirates",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Decathlon",
+    "logo": "Decathlon.png",
+    "description": "At least 50 stores in Russia, $300MM revenue",
+    "status": "Digging In",
+    "website": "www.decathlon.com",
+    "instagram": "instagram.com/decathlonusa/",
+    "twitter": "twitter.com/DecathlonUSA",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Auchan-Retail",
+    "logo": "Auchan-Retail.png",
+    "description": "$3.5 billion in revenue from Russia",
+    "status": "Digging In",
+    "website": "www.auchan-retail.com",
+    "instagram": "instagram.com/auchan_france",
+    "twitter": "twitter.com/auchan_france",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Nokian Tyres",
+    "logo": "Nokian Tyres.png",
+    "description": "Meaningfully reduce production in Russia",
+    "status": "Scaling Back",
+    "website": "https://www.nokiantyres.com",
+    "instagram": "https://www.instagram.com/NokianTyresNA/",
+    "twitter": "https://twitter.com/NokianTyresNA",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "BNP Paribas",
+    "logo": "BNP Paribas.png",
+    "description": "Suspend new business in Russia/curtail financing",
+    "status": "Scaling Back",
+    "website": "https://group.bnpparibas",
+    "instagram": "instragram.com/bnpparibas",
+    "twitter": "twitter.com/bnpparibas",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Amadeus IT Group",
+    "logo": "Amadeus IT Group.png",
+    "description": "Suspend partnership with Aeroflot",
+    "status": "Scaling Back",
+    "website": "https://www.amadeus.com",
+    "instagram": "instagram.com/amadeuspbm",
+    "twitter": "twitter.com/amadeusitgroup",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Allianz",
+    "logo": "Allianz.png",
+    "description": "Meaningfully reduce exposure to Russia",
+    "status": "Scaling Back",
+    "website": "https://www.allianz.com",
+    "instagram": "instagram.com/allianz",
+    "twitter": "twitter.com/allianz",
+    "tags": [
+      "insurance"
+    ]
+  },
+  {
+    "name": "Carlsberg",
+    "logo": "Carlsberg.png",
+    "description": "Suspend exports and certain operations",
+    "status": "Scaling Back",
+    "website": "https://www.carlsberggroup.com",
+    "instagram": "instagram.com/carlsberg",
+    "twitter": "twitter.com/carlsberg",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Dow",
+    "logo": "Dow.png",
+    "description": "Suspend investments/some purchases but not all",
+    "status": "Scaling Back",
+    "website": "https://www.dow.com",
+    "instagram": "https://www.instagram.com/explore/tags/dowcompany/",
+    "twitter": "https://twitter.com/DowNewsroom",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Elsevier",
+    "logo": "Elsevier.jpg",
+    "description": "Suspended all sales except essential health products",
+    "status": "Scaling Back",
+    "website": "https://www.relx.com",
+    "instagram": "instagram.com/elsevierconnect",
+    "twitter": "twitter.com/elsevierconnect",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "name": "GE",
+    "logo": "GE.png",
+    "description": "Suspend certain operations but continue others",
+    "status": "Scaling Back",
+    "website": "https://www.ge.com",
+    "instagram": "https://www.instagram.com/generalelectric/?hl=en",
+    "twitter": "https://twitter.com/generalelectric",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Abbvie",
+    "logo": "Abbvie.png",
+    "description": "Suspend aesthetics operations, pause new clinical trials",
+    "status": "Scaling Back",
+    "website": "https://www.abbvie.com",
+    "instagram": "www.instagram.com/abbvie",
+    "twitter": "twitter.com/abbvie",
+    "tags": [
+      "healthcare"
+    ]
+  },
+  {
+    "name": "Bunge",
+    "logo": "Bunge.png",
+    "description": "Suspend exports but continue certain domestic",
+    "status": "Scaling Back",
+    "website": "https://www.bunge.com",
+    "instagram": "https://www.instagram.com/explore/tags/bungecompany/",
+    "twitter": "https://twitter.com/bunge?lang=en",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Kellogg",
+    "logo": "Kellogg.png",
+    "description": "Suspend new investments except essentials (minor)",
+    "status": "Scaling Back",
+    "website": "https://www.kelloggcompany.com",
+    "instagram": "https://www.instagram.com/kelloggsus/",
+    "twitter": "https://twitter.com/KelloggsUS",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "logo": "Goldman Sachs.png",
+    "description": "Wind down business in Russia but buy Russian debt",
+    "status": "Scaling Back",
+    "website": "https://www.goldmansachs.com",
+    "instagram": "www.instagram.com/goldmansachs",
+    "twitter": "www.twitter.com/goldmansachs",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Whirlpool",
+    "logo": "Whirlpool.png",
+    "description": "Limiting production in Russia",
+    "status": "Scaling Back",
+    "website": "https://www.whirlpoolcorp.com",
+    "instagram": "instagram.com/whirpoolcare",
+    "twitter": "twitter.com/whirlpoolcare",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Natura",
+    "logo": "Natura.png",
+    "description": "Suspend some subsidiary operations but not all",
+    "status": "Scaling Back",
+    "website": "https://ri.naturaeco.com/en",
+    "instagram": "https://www.instagram.com/naturaandco/?hl=en",
+    "twitter": "https://twitter.com/naturaandco",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Deere",
+    "logo": "Deere.png",
+    "description": "Suspend shipments into Russia only",
+    "status": "Scaling Back",
+    "website": "https://www.deere.com",
+    "instagram": "instagram.com/johndeere",
+    "twitter": "twitter.com/johndeere",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Coinbase",
+    "logo": "Coinbase.png",
+    "description": "Block certain illicit Russian accounts but not all",
+    "status": "Scaling Back",
+    "website": "https://www.coinbase.com",
+    "instagram": "instagram.com/coinbase",
+    "twitter": "twitter.com/coinbase",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "ING NV",
+    "logo": "ING NV.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Scaling Back",
+    "website": "https://www.ing.com",
+    "instagram": null,
+    "twitter": "https://twitter.com/ING_news",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Pepsi",
+    "logo": "Pepsi.png",
+    "description": "Suspend operations in Russia except essentials",
+    "status": "Scaling Back",
+    "website": "https://www.pepsico.com",
+    "instagram": "instagram.com/pepsi",
+    "twitter": "twitter.com/pepsi",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "HSBC",
+    "logo": "HSBC.png",
+    "description": "Curtail Russian access to capital markets",
+    "status": "Scaling Back",
+    "website": "https://www.hsbc.com",
+    "instagram": "https://www.instagram.com/hsbc/?hl=en",
+    "twitter": "https://twitter.com/HSBC",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Fieldfisher",
+    "logo": "Fieldfisher.png",
+    "description": "Suspend certain Russian relationships",
+    "status": "Scaling Back",
+    "website": "https://fieldfisher.com",
+    "instagram": "https://www.instagram.com/fieldfisher/",
+    "twitter": "https://twitter.com/Fieldfisher",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Kearney",
+    "logo": "Kearney.png",
+    "description": "Suspend certain operations in Russia",
+    "status": "Scaling Back",
+    "website": "https://www.kearney.com/",
+    "instagram": "https://www.instagram.com/kearneygroup/?hl=en",
+    "twitter": "https://twitter.com/kearney?lang=en",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Sidley Austin",
+    "logo": "Sidley Austin.png",
+    "description": "Suspend services for all Kremlin entities",
+    "status": "Scaling Back",
+    "website": "https://sidley.com",
+    "instagram": "https://www.instagram.com/sidleyaustin",
+    "twitter": "twitter.com/SidleyLaw",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Michelin Tire",
+    "logo": "Michelin Tire.png",
+    "description": "Halting production at some plants/reviews",
+    "status": "Scaling Back",
+    "website": "www.michelin.com",
+    "instagram": "www.instagram.com/michelin",
+    "twitter": "twitter.com/michelin",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Skadden",
+    "logo": "Skadden.png",
+    "description": "Suspend certain operations in Russia but not all",
+    "status": "Scaling Back",
+    "website": "www.skadden.com",
+    "instagram": "instagram.com/skaddenarps",
+    "twitter": "twitter.com/skaddenarps",
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Oriflame Cosmetics",
+    "logo": "Oriflame Cosmetics.png",
+    "description": "Suspend online sales to end consumers but not others",
+    "status": "Scaling Back",
+    "website": "https://oriflame.com/",
+    "instagram": "https://www.instagram.com/oriflame/",
+    "twitter": "https://twitter.com/WeAreOriflame",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "NielsenIQ",
+    "logo": "NielsenIQ.jpg",
+    "description": "Suspend consulting service but not core business",
+    "status": "Scaling Back",
+    "website": "https://nielseniq.com/global/en/",
+    "instagram": "https://www.instagram.com/nielseniq/?hl=en",
+    "twitter": "https://twitter.com/NielsenIQ",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "Bacardi",
+    "logo": "Bacardi.png",
+    "description": "Paused exports to Russia but not domestic operations",
+    "status": "Scaling Back",
+    "website": "www.bacardi.com",
+    "instagram": "instagram.com/bacardi",
+    "twitter": "twitter.com/bacardi",
+    "tags": [
+      "retail"
+    ]
+  },
+  {
+    "name": "Nalco Water (Ecolab)",
+    "logo": "Nalco Water (Ecolab).png",
+    "description": "Suspended services except services critical to health",
+    "status": "Scaling Back",
+    "website": "https://www.ecolab.com/nalco-water",
+    "instagram": "https://www.instagram.com/nalco.water/?hl=en",
+    "twitter": "https://twitter.com/Nalco_News",
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "name": "Miele",
+    "logo": "Miele.png",
+    "description": "Suspend operations except exempt healthcare",
+    "status": "Scaling Back",
+    "website": "https://www.mieleusa.com/",
+    "instagram": "https://www.instagram.com/miele_com/?hl=en",
+    "twitter": "https://twitter.com/MieleUSA",
+    "tags": [
+      "manufacture"
+    ]
+  },
+  {
+    "name": "Bosch",
+    "logo": "Bosch.png",
+    "description": "Suspend some shipments and plants but not all",
+    "status": "Scaling Back",
+    "website": "https://www.bosch.com/",
+    "instagram": "https://www.instagram.com/boschglobal/",
+    "twitter": "https://twitter.com/BoschGlobal",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "name": "JPMorgan",
+    "logo": "JPMorgan.png",
+    "description": "Wind down business in Russia but buy Russian debt",
+    "status": "Scaling Back",
+    "website": "www.jpmorgan.com",
+    "instagram": "instagram.com/jpmorgan",
+    "twitter": "twitter.com/jpmorgan",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
     "name": "Wise PLC",
     "logo": "Wise PLC.png",
     "description": "Suspend Russian partnerships",
@@ -81,18 +1581,6 @@
     "twitter": "https://twitter.com/RalphLauren",
     "tags": [
       "retail"
-    ]
-  },
-  {
-    "name": "Twin Disc",
-    "logo": "twin.png",
-    "description": "Suspend all shipments to Russia",
-    "status": "Suspension",
-    "website": "https://www.twindisc.com",
-    "instagram": null,
-    "twitter": null,
-    "tags": [
-      "manufacture"
     ]
   },
   {
@@ -444,18 +1932,6 @@
     ]
   },
   {
-    "name": "Uniqlo/Fast Retailing",
-    "logo": "ufr.png",
-    "description": "Suspend operations in Russia",
-    "status": "Suspension",
-    "website": null,
-    "instagram": null,
-    "twitter": null,
-    "tags": [
-
-    ]
-  },
-  {
     "name": "UPS",
     "logo": "UPS.png",
     "description": "Suspend all shipments to Russia",
@@ -505,7 +1981,7 @@
   },
   {
     "name": "Airbus",
-    "logo": "airbus.png",
+    "logo": "Airbus.png",
     "description": "Suspend supply of parts to Aeroflot",
     "status": "Suspension",
     "website": null,
@@ -2064,18 +3540,6 @@
     ]
   },
   {
-    "name": "DSV A/S",
-    "logo": "DSV.png",
-    "description": "Suspend all shipments to Russia",
-    "status": "Suspension",
-    "website": null,
-    "instagram": null,
-    "twitter": null,
-    "tags": [
-
-    ]
-  },
-  {
     "name": "Volvo",
     "logo": "Volvo.png",
     "description": "Suspend all shipments to Russia",
@@ -2977,7 +4441,7 @@
   },
   {
     "name": "PwC",
-    "logo": "pwc.png",
+    "logo": "PwC.png",
     "description": "Leaving Russia completely",
     "status": "Withdrawal",
     "website": null,
@@ -3291,6 +4755,18 @@
     "name": "Clarivate",
     "logo": "Clarivate.png",
     "description": "Exit Russian operations",
+    "status": "Withdrawal",
+    "website": null,
+    "instagram": null,
+    "twitter": null,
+    "tags": [
+
+    ]
+  },
+  {
+    "name": "Exxon",
+    "logo": "Exxon.png",
+    "description": "Exit Rosneft partnership",
     "status": "Withdrawal",
     "website": null,
     "instagram": null,

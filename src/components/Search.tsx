@@ -2,6 +2,7 @@ import React, { useCallback, useMemo, useState } from "react";
 import SearchForm from "./SearchForm";
 import SearchList from "./SearchList";
 import { ListItem } from "../data/index";
+import { STATUSES } from "./Status";
 
 interface IProps {
   items: Array<ListItem>;
@@ -16,6 +17,7 @@ function Search(props: IProps) {
   const { items } = props;
   const [query, setQuery] = useState<string>("");
   const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set([]));
+  const [selectedStatuses, setSelectedStatuses] = useState<Set<string>>(new Set(STATUSES));
   const [currentPage, setCurrentPage] = useState<number>(1);
 
   const allTags = useMemo(
@@ -28,14 +30,19 @@ function Search(props: IProps) {
   );
 
   const filteredItems = useMemo(() => {
-    const newItems = items
+    let newItems = items
       .filter((item) => item.name.toLowerCase().includes(query))
       .sort((a, b) => a.name.localeCompare(b.name));
+
+    if (selectedStatuses.size > 0) {
+      newItems = newItems.filter((item) => selectedStatuses.has(item.status))
+    }
 
     return selectedTags.size > 0
       ? newItems.filter((item) => containsTag(item, selectedTags))
       : newItems;
-  }, [query, selectedTags, items]);
+
+  }, [query, selectedStatuses, selectedTags, items]);
 
   const paginatedItems = useMemo(
     () => filteredItems.slice(0, currentPage * PER_PAGE),
@@ -63,6 +70,15 @@ function Search(props: IProps) {
     [selectedTags, setSelectedTags]
   );
 
+  const onStatusClicked = useCallback(
+    (name: string) => {
+      const newStatuses = new Set(selectedStatuses);
+      selectedStatuses.has(name) ? newStatuses.delete(name) : newStatuses.add(name);
+      setSelectedStatuses(newStatuses);
+    },
+    [selectedStatuses, setSelectedStatuses]
+  )
+
   return (
     <div className="m-auto w-full border-y-4 border-y-red-400 grow">
       <section className="pb-4">
@@ -72,6 +88,8 @@ function Search(props: IProps) {
           allTags={allTags}
           selectedTags={selectedTags}
           onTagClicked={onTagClicked}
+          selectedStatuses={selectedStatuses}
+          onStatusClicked={onStatusClicked}
         />
         <SearchList items={paginatedItems} onLoadMore={onLoadMore} />
       </section>

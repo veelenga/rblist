@@ -17,11 +17,6 @@ TAG_MAP = {
   'communication services' => 'communication'
 }.freeze
 
-SUPPORTED_STATUSES = [
-  'Suspension',
-  'Withdrawal'
-].freeze
-
 def download_img(url, name)
   URI.open(url) do |image|
     File.open("public/logo/#{name}", 'wb') do |file|
@@ -49,12 +44,10 @@ CSV.foreach('scripts/data.csv', headers: true) do |row|
   twitter = row['Twitter']
   sector = row['Sector']
 
-  next unless SUPPORTED_STATUSES.include?(status)
-
   url, logo = logo_url_name(name, logo)
 
   begin
-    #download_img(url, logo)
+    download_img(url, logo)
   rescue StandardError
     next
   end
