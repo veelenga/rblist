@@ -6,6 +6,14 @@ interface IProps {
   onClicked: (name: string) => void;
 }
 
+export const STATUS_ORDER: { [key: string]: number } = {
+  "Digging In": 0,
+  "Buying Time": 1,
+  "Scaling Back": 2,
+  Suspension: 3,
+  Withdrawal: 4
+}
+
 export const STATUS_COLOR: { [key: string]: string } = {
   "Digging In": "red-600",
   "Buying Time": "red-400",
