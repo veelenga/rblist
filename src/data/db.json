@@ -5818,5 +5818,17 @@
     "tags": [
 
     ]
+  },
+  {
+    "name": "Wikidot",
+    "logo": "Wikidot.png",
+    "description": "Inaccessible in Russia and Belarus",
+    "status": "Withdrawal",
+    "website": "https://www.wikidot.com",
+    "instagram": null,
+    "twitter": "https://twitter.com/wikidot",
+    "tags": [
+      "tech"
+    ]
   }
 ]
