@@ -11,16 +11,17 @@ export type ListItem = {
   tags: string[];
 };
 
-const data = [
+const data: ListItem[] = [
   {
     name: "Snapcommerce",
     logo: "https://images.squarespace-cdn.com/content/v1/5f3a96f64e5615558ab05acd/1612897529329-5SNXX3LJGOUOLADFK0Y2/Full_Logo_Black.png?format=150w",
-    description: "Suspend/block all hotel bookings in Russia plus any purchases made in RUB",
+    description:
+      "Suspend/block all hotel bookings in Russia plus any purchases made in RUB",
     status: "Withdrawal",
     website: "https://www.snapcommerce.com",
     instagram: "instagram.com/snaptravel",
     twitter: "twitter.com/snaptravel",
-    tags: ["retail"]
+    tags: ["retail"],
   },
   {
     name: "Apple",
