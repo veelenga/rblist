@@ -1,6 +1,6 @@
 {
   "name": "RBL",
-  "homepage": "https://rblist.info/",
+  "homepage": "https://veelenga.github.io/rblist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
