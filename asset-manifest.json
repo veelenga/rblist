@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rblist.info/static/css/main.3230bf1a.css",
-    "main.js": "/rblist.info/static/js/main.dd07b297.js",
-    "index.html": "/rblist.info/index.html",
-    "main.3230bf1a.css.map": "/rblist.info/static/css/main.3230bf1a.css.map",
-    "main.dd07b297.js.map": "/rblist.info/static/js/main.dd07b297.js.map"
+    "main.css": "/rblist/static/css/main.3230bf1a.css",
+    "main.js": "/rblist/static/js/main.dd07b297.js",
+    "index.html": "/rblist/index.html",
+    "main.3230bf1a.css.map": "/rblist/static/css/main.3230bf1a.css.map",
+    "main.dd07b297.js.map": "/rblist/static/js/main.dd07b297.js.map"
   },
   "entrypoints": [
     "static/css/main.3230bf1a.css",
